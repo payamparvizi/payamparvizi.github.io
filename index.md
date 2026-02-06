@@ -17,29 +17,24 @@ permalink:  /
 ---
 
 <div id="intro">
-  <div id="intro-text">
-    <h1>Payam Parvizi</h1>
-
-<p align="justify">
-  I am a PhD-trained Postdoctoral Research Associate with 4+ years of experience developing and validating reinforcement learning methods for continuous control under real-world-motivated constraints. I am driven by a deep curiosity about how learning-based controllers can achieve the smooth, stable, and reliable behavior needed for safe deployment in physical systems.
-</p>
-
-<p align="justify">
-  I specialize in action/policy regularization and policy smoothing to reduce high-frequency oscillations and improve reliability, validated through the development of custom Gymnasium-compatible environments and simulation-to-real transfer. My work includes deployment on quadcopter platforms and applications in satellite-to-ground optical communications, conducted at the <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> under the supervision of <a href="https://engineering.uottawa.ca/people/spinello-davide" target="_blank">Prof. Davide Spinello</a> and <a href="https://engineering.uottawa.ca/people/bellinger-colin" target="_blank">Associate Professor Colin Bellinger</a>, and in collaboration with <a href="https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/advanced-electronics-photonics" target="_blank">Ross Cheriton</a> at the <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>.
-</p>
-
-<br><br>
-
-<a href="Resume.pdf" target="_blank">CV</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=nZz4fKIAAAAJ&hl=en" target="_blank">Google Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/payamparvizi" target="_blank">GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/PayamParvizi" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:pparv056@uottawa.ca" target="_blank">Email</a>
-
-</div>
-<div id="intro-image">
-    <img src="/img/Profile/IMG_3211.png">
-</div>
+    <div id="intro-text">
+        <h1>Payam Parvizi</h1>
+        <p align="justify">
+            I am a PhD-trained Postdoctoral Research Associate with 4+ years of experience developing and validating reinforcement learning methods for continuous control under real-world-motivated constraints. I am driven by a deep curiosity about how learning-based controllers can achieve the smooth, stable, and reliable behavior needed for safe deployment in physical systems.
+            <br><br>
+            I specialize in action/policy regularization and policy smoothing to reduce high-frequency oscillations and improve reliability, validated through the development of custom Gymnasium-compatible environments and simulation-to-real transfer. My work includes deployment on quadcopter platforms and applications in satellite-to-ground optical communications, conducted at the <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> under the supervision of <a href="https://engineering.uottawa.ca/people/spinello-davide" target="_blank">Prof. Davide Spinello</a> and <a href="https://engineering.uottawa.ca/people/bellinger-colin" target="_blank">Associate Professor Colin Bellinger</a>, and in collaboration with <a href="https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/advanced-electronics-photonics" target="_blank">Ross Cheriton</a> at the <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>.
+            <br><br>
+            <br><br>
+            <a href="Resume.pdf" target="_blank">CV</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://scholar.google.com/citations?user=nZz4fKIAAAAJ&hl=en" target="_blank">Google Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://github.com/payamparvizi" target="_blank">GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.linkedin.com/in/PayamParvizi" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="mailto:pparv056@uottawa.ca" target="_blank">Email</a>
+        </p>
+    </div>
+    <div id="intro-image">
+        <img src="/img/Profile/IMG_3211.png">
+    </div>
 </div>
 
 
