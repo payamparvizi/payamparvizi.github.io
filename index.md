@@ -54,7 +54,7 @@ permalink:  /
 
     </div>
     <div id="intro-image">
-        <img src="/img/Profile/icml25_headshot.jpg">
+        <img src="/img/Profile/IMG_3211.png">
     </div>
 </div>
 
