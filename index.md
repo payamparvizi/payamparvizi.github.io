@@ -19,32 +19,13 @@ permalink:  /
 <div id="intro">
   <div id="intro-text">
     <h1>Payam Parvizi</h1>
+
     <p align="justify">
-      I am a PhD-trained Postdoctoral Research Associate at the
-      <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a>,
-      working on reinforcement learning and control for reliable continuous-control systems.
-      My research focuses on policy and action regularization to improve smoothness, stability,
-      and robustness of learning-based controllers under real-world-motivated constraints.
-      I develop and validate reinforcement learning methods in custom Gymnasium-compatible
-      simulation environments and pursue simulation-to-real transfer, including deployment
-      on a quadcopter platform. This work has been conducted in collaboration with the
-      <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>.
+      I am a PhD-trained Postdoctoral Research Associate with 4+ years of experience developing and validating reinforcement learning methods for continuous control under real-world-motivated constraints. I am driven by a deep curiosity about how learning-based controllers can achieve the smooth, stable, and reliable behavior needed for safe deployment in physical systems. I specialize in action/policy regularization and policy smoothing to reduce high-frequency oscillations and improve reliability, validated through the development of custom Gymnasium-compatible environments and simulation-to-real transfer. My work includes deployment on quadcopter platforms and applications in satellite-to-ground optical communications, conducted at the <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> in collaboration with the <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>.
     </p>
 
-  
     <br><br>
-    <p align="justify">
-      Previously, I worked as a Research Assistant at the
-      <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> in collaboration with the
-      <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>,
-      where I developed and validated reinforcement learning controllers for real-world physical systems.
-      This included designing the first Gymnasium-compatible RL environment in our project for
-      wavefront sensorless adaptive optics, developing action-regularized policies to reduce high-frequency
-      oscillations, and transferring learned policies from simulation to a quadcopter platform for
-      smooth and stable control.
-    </p>
-    
-    <br><br>
+
     
     <a href="Resume.pdf" target="_blank">CV</a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://scholar.google.com/" target="_blank">Google Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;
