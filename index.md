@@ -12,8 +12,8 @@ permalink:  /
 <meta property="og:title" content="Payam Parvizi | Robot Learning & Reinforcement Learning" />
 <meta property="og:description" content="Research, publications, and talks by Gautham Vasan in robot learning and reinforcement learning." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://gauthamvasan.github.io/" />
-<meta property="og:image" content="https://gauthamvasan.github.io/img/Profile/icml25_headshot.jpg" />
+<meta property="og:url" content="https://payamparvizi.github.io/" />
+<meta property="og:image" content="https://payamparvizi.github.io/img/Profile/icml25_headshot.jpg" />
 ---
 
 <div id="intro">
