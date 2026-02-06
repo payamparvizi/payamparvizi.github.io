@@ -8,7 +8,7 @@ permalink:  /
 <meta name="title" content="Payam Parvizi | Robotics & Artificial Intelligence & Reinforcement Learning" />
 <meta name="description" content="Gautham Vasan's research in robot learning, reinforcement learning, and real-time AI. Publications, talks, and professional activities." />
 <meta name="keywords" content="Gautham Vasan, robot learning, reinforcement learning, AI, publications, talks, research, University of Alberta, NIT Trichy, deep learning, deep RL" />
-<meta name="author" content="Gautham Vasan" />
+<meta name="author" content="Payam Parvizi" />
 <meta property="og:title" content="Gautham Vasan | Robot Learning & Reinforcement Learning" />
 <meta property="og:description" content="Research, publications, and talks by Gautham Vasan in robot learning and reinforcement learning." />
 <meta property="og:type" content="website" />
