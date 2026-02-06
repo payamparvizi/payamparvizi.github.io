@@ -18,7 +18,7 @@ permalink:  /
 
 <div id="intro">
     <div id="intro-text">
-        <h1>Gautham Vasan</h1>
+        <h1>Payam Parvizi</h1>
         <p align="justify">
             I'm a PhD candidate in Computing Science at the <a href="https://www.ualberta.ca/en/index.html" target="_blank">University of Alberta</a>, advised by <a href="https://armahmood.github.io/" target="_blank">Dr. Rupam Mahmood</a>.
             I aim to understand the computational principles underlying intelligence. To this end, I build agents that can continually learn, adapt, and improve throughout their lifetimes.
