@@ -1,9 +1,9 @@
 encoding: utf-8
-name: Gautham Vasan
-url: https://gauthamvasan.github.io/
+name: Payam Parvizi
+url: https://payamparvizi.github.io/
 author:
-  name: Gautham Vasan
-  email: gauthamv.529@gmail.com
-  description: "Statistical Machine Learning PhD student at the University of Alberta. I'm interested in building machines with human-like intelligence."
+  name: Payam Parvizi
+  email: your-email-here
+description: "PhD-trained Postdoctoral Research Associate (University of Ottawa) working on reinforcement learning and control for reliable continuous-control systems, with a focus on stability/regularization and sim-to-real deployment (e.g., quadcopters)."
 permalink: /posts/:title/
 include: ['_pages']
