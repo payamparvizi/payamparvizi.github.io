@@ -52,7 +52,6 @@ permalink:  /
     <a href="https://www.linkedin.com/in/PayamParvizi" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:pparv056@uottawa.ca" target="_blank">Email</a>
 
-        </p>
     </div>
     <div id="intro-image">
         <img src="/img/Profile/icml25_headshot.jpg">
