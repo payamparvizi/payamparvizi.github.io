@@ -5,23 +5,32 @@ permalink:  /
 ---
 
 <!-- SEO Meta Tags -->
-<meta name="title" content="Payam Parvizi | Robotics & Artificial Intelligence & Reinforcement Learning" />
-<meta name="description" content="Gautham Vasan's research in robot learning, reinforcement learning, and real-time AI. Publications, talks, and professional activities." />
-<meta name="keywords" content="Gautham Vasan, robot learning, reinforcement learning, AI, publications, talks, research, University of Alberta, NIT Trichy, deep learning, deep RL" />
+<meta name="title" content="Payam Parvizi | Reinforcement Learning & Control | Sim-to-Real Robotics" />
+<meta name="description" content="PhD-trained Postdoctoral Research Associate at the University of Ottawa working on reinforcement learning and control for reliable continuous-control systems, with a focus on policy regularization, stability, and sim-to-real deployment." />
+<meta name="keywords" content="Payam Parvizi, reinforcement learning, continuous control, control-oriented machine learning, policy regularization, stability, applied RL, sim-to-real, robotics, quadcopter, Gymnasium, MuJoCo, JAX, University of Ottawa, National Research Council Canada" />
 <meta name="author" content="Payam Parvizi" />
-<meta property="og:title" content="Payam Parvizi | Robot Learning & Reinforcement Learning" />
-<meta property="og:description" content="Research, publications, and talks by Gautham Vasan in robot learning and reinforcement learning." />
+<meta property="og:title" content="Payam Parvizi | Reinforcement Learning & Control | Sim-to-Real Robotics" />
+<meta property="og:description" content="Research, publications, and projects by Payam Parvizi on reinforcement learning and control for reliable continuous-control systems, including sim-to-real deployment on physical platforms." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://payamparvizi.github.io/" />
-<meta property="og:image" content="https://payamparvizi.github.io/img/Profile/icml25_headshot.jpg" />
+<meta property="og:image" content="https://payamparvizi.github.io/img/Profile/headshot.jpg" />
 ---
 
 <div id="intro">
-    <div id="intro-text">
-        <h1>Payam Parvizi</h1>
-        <p align="justify">
-            I'm a PhD candidate in Computing Science at the <a href="https://www.ualberta.ca/en/index.html" target="_blank">University of Alberta</a>, advised by <a href="https://armahmood.github.io/" target="_blank">Dr. Rupam Mahmood</a>.
-            I aim to understand the computational principles underlying intelligence. To this end, I build agents that can continually learn, adapt, and improve throughout their lifetimes.
+  <div id="intro-text">
+    <h1>Payam Parvizi</h1>
+    <p align="justify">
+      I am a PhD-trained Postdoctoral Research Associate at the
+      <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a>,
+      working on reinforcement learning and control for reliable continuous-control systems.
+      My research focuses on policy and action regularization to improve smoothness, stability,
+      and robustness of learning-based controllers under real-world-motivated constraints.
+      I develop and validate reinforcement learning methods in custom Gymnasium-compatible
+      simulation environments and pursue simulation-to-real transfer, including deployment
+      on a quadcopter platform. This work has been conducted in collaboration with the
+      <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>.
+    </p>
+
   
             <br><br>
             Previously, I deployed deep reinforcement learning to a fleet of warehouse robots used by Gap at <a href="https://ocadointelligentautomation.com/systems/robotic-sort-putwall" target="_blank">Kindred AI</a>. I’ve also worked on imitation-bootstrapped RL during internships at <a href="https://www.sanctuary.ai/" target="_blank">Sanctuary AI</a> and the <a href="https://nr.informatik.uni-freiburg.de/" target="_blank">University of Freiburg</a>. During my M.Sc, I worked with <a href="https://pilarski.github.io/" target="_blank">Dr. Patrick Pilarski</a> to develop learning from demonstration techniques that amputees can use to teach their own prosthetic arms. Long before that, I studied Instrumentation and Control Engineering at <a href="https://nitt.edu/" target="_blank">NIT Trichy</a>, India.    
