@@ -32,16 +32,26 @@ permalink:  /
     </p>
 
   
-            <br><br>
-            Previously, I deployed deep reinforcement learning to a fleet of warehouse robots used by Gap at <a href="https://ocadointelligentautomation.com/systems/robotic-sort-putwall" target="_blank">Kindred AI</a>. I’ve also worked on imitation-bootstrapped RL during internships at <a href="https://www.sanctuary.ai/" target="_blank">Sanctuary AI</a> and the <a href="https://nr.informatik.uni-freiburg.de/" target="_blank">University of Freiburg</a>. During my M.Sc, I worked with <a href="https://pilarski.github.io/" target="_blank">Dr. Patrick Pilarski</a> to develop learning from demonstration techniques that amputees can use to teach their own prosthetic arms. Long before that, I studied Instrumentation and Control Engineering at <a href="https://nitt.edu/" target="_blank">NIT Trichy</a>, India.    
-            <br><br> 
-            <br><br> 
-            <a href="Resume.pdf" target="_blank">CV</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://scholar.google.ca/citations?user=4qMs0zMAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://github.com/gauthamvasan" target="_blank">GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://www.linkedin.com/in/gauthamvasan/" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://www.goodreads.com/user/show/29446357-gautham-vasan" target="_blank">Goodreads</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="mailto:gauthamv.529@gmail.com" target="_blank">Email</a>
+    <br><br>
+    <p align="justify">
+      Previously, I worked as a Research Assistant at the
+      <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> in collaboration with the
+      <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>,
+      where I developed and validated reinforcement learning controllers for real-world physical systems.
+      This included designing the first Gymnasium-compatible RL environment in our project for
+      wavefront sensorless adaptive optics, developing action-regularized policies to reduce high-frequency
+      oscillations, and transferring learned policies from simulation to a quadcopter platform for
+      smooth and stable control.
+    </p>
+    
+    <br><br>
+    
+    <a href="Resume.pdf" target="_blank">CV</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://scholar.google.com/" target="_blank">Google Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/payamparvizi" target="_blank">GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/PayamParvizi" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:pparv056@uottawa.ca" target="_blank">Email</a>
+
         </p>
     </div>
     <div id="intro-image">
