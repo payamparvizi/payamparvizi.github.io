@@ -1,0 +1,9 @@
+encoding: utf-8
+name: Gautham Vasan
+url: https://gauthamvasan.github.io/
+author:
+  name: Gautham Vasan
+  email: gauthamv.529@gmail.com
+  description: "Statistical Machine Learning PhD student at the University of Alberta. I'm interested in building machines with human-like intelligence."
+permalink: /posts/:title/
+include: ['_pages']
