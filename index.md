@@ -155,7 +155,7 @@ permalink:  /
     <div class="research-description">
         <h3>Development of a High-Precision Hybrid Robotic Deburring System</h3>
         <p>
-        This thesis presents a learning-from-demonstration approach for robotic deburring of
+        This work presents a learning-from-demonstration approach for robotic deburring of
         workpieces with unknown shapes. Task-relevant motions of a human expert were recorded
         using a 6-DOF haptic device and encoded using augmented
         <b>Dynamic Movement Primitives (DMPs)</b> to generate adaptable deburring trajectories.
