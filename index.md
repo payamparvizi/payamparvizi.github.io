@@ -117,7 +117,7 @@ permalink:  /
         using the Proximal Policy Optimization (PPO) algorithm. A training approach is designed
         for both simulation and real-world deployment on the Crazyflie 2.1 nano-quadrotor,
         enabling stable hovering control.<br><br>
-        <a href="https://github.com/your-repo" target="_blank">Code</a>
+        <a href="https://github.com/payamparvizi/Crazyflie_RL" target="_blank">Code</a>
         </p>
     </div>
 </div>
