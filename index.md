@@ -108,17 +108,25 @@ permalink:  /
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-        <img src="/img/regularization_poster.jpg" alt="Policy Regularization" />
+        <img src="/img/crazyflie.png" alt="Sim-to-Real Reinforcement Learning for Quadrotor Control" />
     </a>
     <div class="research-description">
-        <h3>Policy Smoothing and Regularization Methods</h3>
+        <h3>Sim-to-Real Reinforcement Learning for Quadrotor Control</h3>
         <p>
-        A central theme of my research is the design of regularization strategies for reinforcement learning
-        policies. I investigate how temporal smoothing and structured regularization can improve reliability
-        and safety in continuous-control settings.
+        This project develops a full sim-to-real reinforcement learning pipeline for
+        quadrotor control using <b>Proximal Policy Optimization (PPO)</b>. A unified training
+        framework is designed for both simulation and real-world deployment on the
+        Crazyflie 2.1 nano-quadrotor, enabling stable hovering and safe real-time control.
+        The work integrates onboard sensing, wireless communication, and safety-constrained
+        action limits to bridge the simulation-to-real gap.<br><br>
+        <i>
+        Research project involving real-world deployment on physical quadrotor platforms.
+        Open-source implementation with reproducible sim-to-real experiments.
+        </i>
         </p>
     </div>
 </div>
+
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
