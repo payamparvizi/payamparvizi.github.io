@@ -76,84 +76,79 @@ permalink:  /
   }
 </style>
     <!-- Research -->
-    <div class="list-item research-project research" data-category="research">
-        <br>
-        <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-            <video controls poster="/img/AVG_poster.jpg">
-                <source src="/img/AVG.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-        </a>
-        <div class="research-description">
-            <h3>Streaming Deep Reinforcement Learning</h3>
-            <p>Streaming learning is about learning from a stream of experience: <br> 
-            •  as soon as they arrive <br>
-            •  using the most recent sample <br>
-            •  without storing past experience in raw form.<br><br>
-            Our algorithms: <a href="https://arxiv.org/abs/2411.15370" target="_blank">Action Value Gradient (AVG)</a> & <a href="https://arxiv.org/abs/2410.14606" target="_blank">Stream-X</a>
-            </p>
-        </div>
+ <!-- Research -->
+<div class="list-item research-project research" data-category="research">
+    <br>
+    <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
+        <img src="/img/quadcopter_poster.jpg" alt="Quadcopter RL Control" />
+    </a>
+    <div class="research-description">
+        <h3>Reliable Reinforcement Learning for Continuous Control</h3>
+        <p>
+        I develop reinforcement learning methods for continuous-action systems with an emphasis on
+        <b>smoothness, stability, and reliability</b>. My work focuses on action and policy regularization
+        techniques to reduce high-frequency oscillations and improve deployment robustness in physical systems.
+        </p>
     </div>
-    <div class="list-item research-project research" data-category="research">
-        <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-            <video controls poster="/img/Sort_poster.jpg">
-                <source src="/img/Sort.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-        </a>
-        <div class="research-description">
-            <h3> RLScan: Learning to Scan Apparel Barcodes</h3>
-            <p>
-            <!-- •  Deep reinforcement learning in production to scan barcodes on apparel. <br> -->
-            An RL policy is trained end-to-end directly in production, learning from a fleet of robots across multiple production sites.<br><br>
-            <a href="https://www.youtube.com/watch?v=MYU5aVxg-AU" target="_blank">Kindred SORT at Gap Inc</a> | <a href="https://www.stateof.ai/2021" target="_blank"> State of AI Report (2021)</a> |<br> <a href="https://www.businesswire.com/news/home/20201012005122/en/Kindred-SORT-AI-Robots-Pick-100-Million-Lifetime-Units" target="_blank">Kindred SORT AI Robots Pick 100 Million Lifetime Units</a>
-            </p>
-        </div>
+</div>
+
+<div class="list-item research-project research" data-category="research">
+    <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
+        <img src="/img/sim2real_poster.jpg" alt="Simulation to Real Transfer" />
+    </a>
+    <div class="research-description">
+        <h3>Simulation-to-Real Transfer for Physical Systems</h3>
+        <p>
+        I study simulation-to-real transfer for learning-based controllers, emphasizing evaluation
+        under real-world constraints. My work bridges simulation and hardware through deployment-aware
+        validation, including experiments on quadcopter platforms.
+        </p>
     </div>
-    <div class="list-item research-project research" data-category="research">
-        <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-            <video controls poster="/img/Create-Reacher_poster.jpg">
-                <source src="/img/Create-Reacher.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-        </a>
-        <div class="research-description">
-            <h3>Reward Design in Reinforcement Learning</h3>
-            <p>
-            Using -1 every timestep until termination as the reward can lead to superior learned behaviors. Here's the <a href="https://arxiv.org/abs/2407.00324" target="_blank">paper</a> that explains why. 
-            </p>
-        </div>
+</div>
+
+<div class="list-item research-project research" data-category="research">
+    <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
+        <img src="/img/regularization_poster.jpg" alt="Policy Regularization" />
+    </a>
+    <div class="research-description">
+        <h3>Policy Smoothing and Regularization Methods</h3>
+        <p>
+        A central theme of my research is the design of regularization strategies for reinforcement learning
+        policies. I investigate how temporal smoothing and structured regularization can improve reliability
+        and safety in continuous-control settings.
+        </p>
     </div>
-    <div class="list-item research-project research" data-category="research">
-        <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-            <video controls poster="/img/UR5-VisualReacher_poster.jpg">
-                <source src="/img/UR5-VisualReacher.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-        </a>
-        <div class="research-description">
-            <h3>Computational Frameworks for Real-Time Robot Learning</h3>
-            <p> Concurrent processing for low latency sensorimotor interaction and asynchronous learning implementations for reliable real-time reinforcement learning on physical systems:
-            <a href="https://github.com/kindredresearch/SenseAct" target="_blank">SenseAct</a> &
-            <a href="https://github.com/rlai-lab/relod" target="_blank">ReLoD</a>
-            </p>
-        </div>
+</div>
+
+<div class="list-item research-project research" data-category="research">
+    <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
+        <img src="/img/optical_comms_poster.jpg" alt="Optical Communications Control" />
+    </a>
+    <div class="research-description">
+        <h3>Learning-Based Control for Optical and Communication Systems</h3>
+        <p>
+        In collaboration with the <b>National Research Council of Canada</b>, I apply learning-based control
+        methods to satellite-to-ground optical communication systems, exploring reinforcement learning for
+        alignment, control, and performance optimization in nontraditional physical domains.
+        </p>
     </div>
-    <div class="list-item research-project research" data-category="research">
-        <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-            <video controls poster="/img/LfD_trials_poster.jpg">
-                <source src="/img/LfD_trials.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-        </a>
-        <div class="research-description">
-            <h3>Learning From Demonstration for Prosthetic Arms</h3>
-            <p>
-                Teaching a Powered Prosthetic Arm with an Intact Arm Using Reinforcement Learning. <br>
-                <i> M.Sc Outstanding <a href="https://era.library.ualberta.ca/items/4f922d51-0679-41f5-b362-12dd224b3a79" target="_blank">Thesis</a> Award in Computing Science </i> <br>
-            </p>
-        </div>
+</div>
+
+<div class="list-item research-project research" data-category="research">
+    <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
+        <img src="/img/control_ml_poster.jpg" alt="Control-Oriented Machine Learning" />
+    </a>
+    <div class="research-description">
+        <h3>Control-Oriented Machine Learning</h3>
+        <p>
+        My research integrates ideas from control theory and machine learning to develop learning-based
+        controllers that respect physical constraints, non-stationarity, and real-time execution requirements.
+        This perspective guides my work across robotics, aerial systems, and communication platforms.
+        </p>
     </div>
+</div>
+<!-- -->
+
     <!-- -->
     <!-- Blog -->
     <!-- -->
