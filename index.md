@@ -84,20 +84,13 @@ permalink:  /
     <div class="research-description">
         <h3>Adaptive Policy Regularization for Smooth Control in Reinforcement Learning</h3>
         <p>
-        This work introduces <b>State-Adaptive Proportional Policy Smoothing (SAPPS)</b>, a lightweight
+        This work introduces State-Adaptive Proportional Policy Smoothing (SAPPS), a lightweight
         policy regularization method that suppresses high-frequency action oscillations in continuous-control
-        reinforcement learning while preserving responsiveness to rapid state changes. SAPPS enforces
-        proportionality between changes in observations and actions via Lipschitz-inspired regularization,
-        enabling smooth yet performant control.<br><br>
-        The method is validated across MuJoCo benchmarks, a wavefront sensorless adaptive optics system
-        for optical satellite communications, and sim-to-real quadcopter experiments, consistently improving
-        control smoothness without sacrificing task performance.<br><br>
+        reinforcement learning while preserving responsiveness to rapid state changes.<br><br>
+        The method is validated across MuJoCo benchmarks, an adaptive optics system, and sim-to-real quadcopter experiments.<br><br>
         <i>
         PhD research conducted at the <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a>
         in collaboration with the <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>.
-        </i><br><br>
-        <a href="https://github.com/payamparvizi/sapps-rl" target="_blank">Code</a> |
-        <a href="https://doi.org/10.36227/techrxiv.177004949.91897305/v1" target="_blank">Preprint</a>
         </p>
     </div>
 </div>
