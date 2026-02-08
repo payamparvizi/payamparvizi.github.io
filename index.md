@@ -94,27 +94,16 @@ permalink:  /
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-        <img src="/img/sim2real_poster.jpg" alt="Simulation to Real Transfer" />
-    </a>
-    <div class="research-description">
-        <h3>Simulation-to-Real Transfer for Physical Systems</h3>
-        <p>
-        I study simulation-to-real transfer for learning-based controllers, emphasizing evaluation
-        under real-world constraints. My work bridges simulation and hardware through deployment-aware
-        validation, including experiments on quadcopter platforms.
-        </p>
-    </div>
-</div>
-
-<div class="list-item research-project research" data-category="research">
-    <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-        <img src="/img/crazyflie.png" alt="Sim-to-Real Reinforcement Learning for Quadrotor Control" />
+        <video controls muted loop playsinline poster="/img/crazyflie_poster.png">
+            <source src="/img/crazyflie_rl.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
     </a>
     <div class="research-description">
         <h3>Sim-to-Real Reinforcement Learning for Quadrotor Control</h3>
         <p>
         This work develops a sim-to-real reinforcement learning framework for quadrotor control
-        using the Proximal Policy Optimization (PPO) algorithm. A training approach is designed
+        using <b>Proximal Policy Optimization (PPO)</b>. A unified training pipeline is designed
         for both simulation and real-world deployment on the Crazyflie 2.1 nano-quadrotor,
         enabling stable hovering control.<br><br>
         <a href="https://github.com/payamparvizi/Crazyflie_RL" target="_blank">Code</a>
