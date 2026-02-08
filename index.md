@@ -78,19 +78,30 @@ permalink:  /
     <!-- Research -->
  <!-- Research -->
 <div class="list-item research-project research" data-category="research">
-    <br>
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-        <img src="/img/quadcopter_poster.jpg" alt="Quadcopter RL Control" />
+        <img src="/img/sapps.png" alt="Adaptive Policy Regularization for Smooth Control in Reinforcement Learning" />
     </a>
     <div class="research-description">
-        <h3>Reliable Reinforcement Learning for Continuous Control</h3>
+        <h3>Adaptive Policy Regularization for Smooth Control in Reinforcement Learning</h3>
         <p>
-        I develop reinforcement learning methods for continuous-action systems with an emphasis on
-        <b>smoothness, stability, and reliability</b>. My work focuses on action and policy regularization
-        techniques to reduce high-frequency oscillations and improve deployment robustness in physical systems.
+        This work introduces <b>State-Adaptive Proportional Policy Smoothing (SAPPS)</b>, a lightweight
+        policy regularization method that suppresses high-frequency action oscillations in continuous-control
+        reinforcement learning while preserving responsiveness to rapid state changes. SAPPS enforces
+        proportionality between changes in observations and actions via Lipschitz-inspired regularization,
+        enabling smooth yet performant control.<br><br>
+        The method is validated across MuJoCo benchmarks, a wavefront sensorless adaptive optics system
+        for optical satellite communications, and sim-to-real quadcopter experiments, consistently improving
+        control smoothness without sacrificing task performance.<br><br>
+        <i>
+        PhD research conducted at the <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a>
+        in collaboration with the <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>.
+        </i><br><br>
+        <a href="https://github.com/payamparvizi/sapps-rl" target="_blank">Code</a> |
+        <a href="https://doi.org/10.36227/techrxiv.177004949.91897305/v1" target="_blank">Preprint</a>
         </p>
     </div>
 </div>
+
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
