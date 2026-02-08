@@ -127,12 +127,13 @@ permalink:  /
     <div class="research-description">
         <h3>Reinforcement Learning for Wavefront Sensorless Adaptive Optics (Optical Satcom)</h3>
         <p>
-        This work develops a simulated wavefront sensorless adaptive optics (AO) reinforcement learning environment for 
+        This work develops a simulated wavefront sensorless adaptive optics (AO) reinforcement learning (RL) environment for 
         training and evaluating RL algorithms. It is the first AO–RL environment implemented using the OpenAI Gymnasium 
         framework, enabling reproducible benchmarking and analysis. The work also demonstrates, for the first time, 
         the potential of reinforcement learning for wavefront sensorless AO in satellite communication downlinks.<br><br>
         <i>
-        PhD research, with collaboration with <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>..
+        PhD research conducted in collaboration with the 
+        <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>.
         </i>
         </p>
     </div>
