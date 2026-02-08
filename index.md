@@ -146,9 +146,9 @@ permalink:  /
         density is incorporated directly into the agent dynamics as a repulsive term, enabling online
         motion planning in service robotics applications.<br><br>
         <i>
-        PhD research, part of the
-        “Multi-Robot Area Coverage Control” project
-        supervised by <a href="https://uniweb.uottawa.ca/view/profile/members/175?lang=en" target="_blank">Dr. Davide Spinello</a> at <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a>.
+        PhD Research in Multi-Robot Area Coverage, supervised by
+        <a href="https://uniweb.uottawa.ca/view/profile/members/175?lang=en" target="_blank">Dr. Davide Spinello</a>
+        at <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a>.
         </i>
         </p>
     </div>
