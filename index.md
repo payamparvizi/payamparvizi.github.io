@@ -476,7 +476,7 @@ permalink:  /
 </div>
 
 <div id="footer">
-    ©Gautham Vasan  | Design influenced by <a href="https://abhishekdas.com/" target="_blank">Abhishek Das</a> & <a href="https://andyzeng.github.io/" target="_blank">Andy Zeng</a>.
+    ©Gautham Vasan  | Design influenced by <a href="https://gauthamvasan.github.io/" target="_blank">Gautham Vasan</a>.
 </div>
 
 <script>
