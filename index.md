@@ -95,7 +95,7 @@ permalink:  /
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
         <video controls muted loop playsinline poster="/img/crazyflie_poster.png">
-            <source src="/img/crazyflie_rl.mp4" type="video/mp4">
+            <source src="/img/Quadcopter_Sim_to_real.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </a>
