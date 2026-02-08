@@ -33,7 +33,7 @@ permalink:  /
         </p>
     </div>
     <div id="intro-image">
-        <img src="/img/Profile/IMG_0758.png">
+        <img src="/img/Profile/IMG_0758.JPG">
     </div>
 </div>
 
