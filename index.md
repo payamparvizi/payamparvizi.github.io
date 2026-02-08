@@ -136,17 +136,23 @@ permalink:  /
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-        <img src="/img/control_ml_poster.jpg" alt="Control-Oriented Machine Learning" />
+        <img src="/img/area-coverage.png" alt="Area Coverage Control with Repulsive Density" />
     </a>
     <div class="research-description">
-        <h3>Control-Oriented Machine Learning</h3>
+        <h3>Formulating Area Coverage Control with Density as a Repulsive Term</h3>
         <p>
-        My research integrates ideas from control theory and machine learning to develop learning-based
-        controllers that respect physical constraints, non-stationarity, and real-time execution requirements.
-        This perspective guides my work across robotics, aerial systems, and communication platforms.
+        This work formulates an area coverage control problem in which mobile targets are modeled
+        as time-varying risk sources acting as a repulsive density over the workspace. Using Voronoi
+        tessellation, coverage objectives are defined locally for each agent, and motion is governed
+        by an artificial potential field whose negative gradient determines the desired velocity.
+        The approach enables online multi-agent coverage under partial information.<br><br>
+        <i>
+        Research note (Multi-agent systems and control)
+        </i>
         </p>
     </div>
 </div>
+
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
