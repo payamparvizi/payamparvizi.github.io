@@ -136,19 +136,14 @@ permalink:  /
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-        <img src="/img/area-coverage.png" alt="Area Coverage Control with Repulsive Density" />
+        <img src="/img/area-coverage.png" alt="Multi-Robot Area Coverage" />
     </a>
     <div class="research-description">
-        <h3>Formulating Area Coverage Control with Density as a Repulsive Term</h3>
+        <h3>Multi-Robot Area Coverage</h3>
         <p>
-        This work formulates an area coverage control problem in which mobile targets are modeled
-        as time-varying risk sources acting as a repulsive density over the workspace. Using Voronoi
-        tessellation, coverage objectives are defined locally for each agent, and motion is governed
-        by an artificial potential field whose negative gradient determines the desired velocity.
-        The approach enables online multi-agent coverage under partial information.<br><br>
-        <i>
-        Research note (Multi-agent systems and control)
-        </i>
+        formulates an area coverage control problem for multi-agent systems operating under
+        partial environmental information. Mobile targets are modeled as risk sources, and the risk
+        density is incorporated directly into the agent dynamics as a repulsive term.
         </p>
     </div>
 </div>
