@@ -43,9 +43,9 @@ permalink:  /
     <!-- <button class="button is-checked" data-filter=".research">Highlights</button> -->
     <button class="button" data-filter=".research">Research</button>
     <button class="button" data-filter=".publication">Publications</button>
-    <button class="button" data-filter=".talk">Talks</button>
-    <button class="button" data-filter=".blog">Blog</button>
-    <button class="button" data-filter=".service">Service</button>
+   <!-- <button class="button" data-filter=".talk">Talks</button>
+    <button class="button" data-filter=".blog">Blog</button>-->
+    <button class="button" data-filter=".service">Other</button>
 </div>
 
 <div class="grid">
