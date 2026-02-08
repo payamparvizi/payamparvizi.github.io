@@ -476,7 +476,7 @@ permalink:  /
 </div>
 
 <div id="footer">
-    ©Gautham Vasan  | Design influenced by <a href="https://gauthamvasan.github.io/" target="_blank">Gautham Vasan</a>.
+    ©Payam Parvizi  | Design influenced by <a href="https://gauthamvasan.github.io/" target="_blank">Gautham Vasan</a>.
 </div>
 
 <script>
