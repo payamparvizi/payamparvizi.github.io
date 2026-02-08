@@ -163,8 +163,8 @@ permalink:  /
         validated through force-controlled robotic deburring experiments.<br><br>
         <i>
         M.Sc. Thesis project, part of the
-        “Development of a High-Precision Hybrid Robotic Deburring System”
-        research project funded by TÜBİTAK.
+        <a href="https://open.metu.edu.tr/handle/11511/50548" target="_blank">“Development of a High-Precision Hybrid Robotic Deburring System”</a>
+        research project funded by <a href="https://tubitak.gov.tr/en" target="_blank">TÜBİTAK</a>.
         </i>
         </p>
     </div>
