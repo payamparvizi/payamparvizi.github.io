@@ -164,7 +164,7 @@ permalink:  /
         This work presents a learning-from-demonstration approach for robotic deburring of
         workpieces with unknown shapes. Task-relevant motions of a human expert were recorded
         using a 6-DOF haptic device and encoded using augmented
-        <b>Dynamic Movement Primitives (DMPs)</b> to generate adaptable deburring trajectories.<br><br>
+        Dynamic Movement Primitives (DMPs) to generate adaptable deburring trajectories.<br><br>
         <i>
         M.Sc. research, part of the
         <a href="https://open.metu.edu.tr/handle/11511/50548" target="_blank">“Development of a High-Precision Hybrid Robotic Deburring System”</a>
