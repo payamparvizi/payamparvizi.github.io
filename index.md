@@ -157,16 +157,14 @@ permalink:  /
         <p>
         This thesis presents a learning-from-demonstration approach for robotic deburring of
         workpieces with unknown shapes. Task-relevant motions of a human expert were recorded
-        using 6-DOF and 1-DOF haptic devices and encoded using <b>Dynamic Movement Primitives (DMPs)</b>
-        to generate adaptable deburring trajectories. The learned primitives enable adaptation
-        to different start and goal positions and were validated through force-controlled
-        robotic deburring experiments.
+        using 6-DOF and 1-DOF haptic devices and encoded using augmented
+        <b>Dynamic Movement Primitives (DMPs)</b> to generate adaptable deburring trajectories.
+        The learned primitives enable adaptation to different start and goal positions and were
+        validated through force-controlled robotic deburring experiments.
         </p>
     </div>
 </div>
-
 <!-- -->
-
     <!-- -->
     <!-- Blog -->
     <!-- -->
