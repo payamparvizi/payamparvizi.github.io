@@ -150,7 +150,7 @@ permalink:  /
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-        <img src="/img/robotic-deburring.jpg" alt="Robotic Deburring via Learning from Demonstration" />
+        <img src="/img/robotic-deburring.png" alt="Robotic Deburring via Learning from Demonstration" />
     </a>
     <div class="research-description">
         <h3>Development of a High-Precision Hybrid Robotic Deburring System</h3>
