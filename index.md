@@ -122,17 +122,22 @@ permalink:  /
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-        <img src="/img/optical_comms_poster.jpg" alt="Optical Communications Control" />
+        <img src="/img/wsl-ao.png" alt="Wavefront Sensorless Adaptive Optics (WSL-AO) with Reinforcement Learning" />
     </a>
     <div class="research-description">
-        <h3>Learning-Based Control for Optical and Communication Systems</h3>
+        <h3>Reinforcement Learning for Wavefront Sensorless Adaptive Optics (Optical Satcom)</h3>
         <p>
-        In collaboration with the <b>National Research Council of Canada</b>, I apply learning-based control
-        methods to satellite-to-ground optical communication systems, exploring reinforcement learning for
-        alignment, control, and performance optimization in nontraditional physical domains.
+        This work develops a simulated wavefront sensorless adaptive optics (AO) reinforcement learning environment for 
+        training and evaluating RL algorithms. It is the first AO–RL environment implemented using the OpenAI Gymnasium 
+        framework, enabling reproducible benchmarking and analysis. The work also demonstrates, for the first time, 
+        the potential of reinforcement learning for wavefront sensorless AO in satellite communication downlinks.<br><br>
+        <i>
+        PhD research, with collaboration with <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>..
+        </i>
         </p>
     </div>
 </div>
+
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
