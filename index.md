@@ -136,18 +136,23 @@ permalink:  /
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-        <img src="/img/area-coverage.png" alt="Multi-Robot Area Coverage" />
+        <img src="/img/area-coverage.png" alt="Multi-Robot Area Coverage Control with Repulsive Density" />
     </a>
     <div class="research-description">
-        <h3>Multi-Robot Area Coverage</h3>
+        <h3>Multi-Robot Area Coverage Control with Repulsive Risk Density</h3>
         <p>
-        formulates an area coverage control problem for multi-agent systems operating under
+        This work formulates an area coverage control problem for multi-agent systems operating under
         partial environmental information. Mobile targets are modeled as risk sources, and the risk
-        density is incorporated directly into the agent dynamics as a repulsive term.
+        density is incorporated directly into the agent dynamics as a repulsive term, enabling online
+        motion planning in service robotics applications.<br><br>
+        <i>
+        PhD research, part of the
+        “Multi-Robot Area Coverage Control” project
+        supervised by <a href="https://uniweb.uottawa.ca/view/profile/members/175?lang=en" target="_blank">Dr. Davide Spinello</a> at <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a>.
+        </i>
         </p>
     </div>
 </div>
-
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
@@ -161,9 +166,9 @@ permalink:  /
         using a 6-DOF haptic device and encoded using augmented
         <b>Dynamic Movement Primitives (DMPs)</b> to generate adaptable deburring trajectories.<br><br>
         <i>
-        M.Sc. Thesis project, part of the
+        M.Sc. research, part of the
         <a href="https://open.metu.edu.tr/handle/11511/50548" target="_blank">“Development of a High-Precision Hybrid Robotic Deburring System”</a>
-        research project funded by <a href="https://tubitak.gov.tr/en" target="_blank">TÜBİTAK</a>.
+        project funded by <a href="https://tubitak.gov.tr/en" target="_blank">TÜBİTAK</a>.
         </i>
         </p>
     </div>
