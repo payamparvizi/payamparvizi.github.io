@@ -91,6 +91,7 @@ permalink:  /
         <i>
         PhD research conducted at the <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a>
         in collaboration with the <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>.
+        </i>
         </p>
     </div>
 </div>
