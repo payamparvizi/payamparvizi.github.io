@@ -122,7 +122,7 @@ permalink:  /
 
 <div class="list-item research-project research" data-category="research">
     <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
-        <img src="/img/wsl-ao.png" alt="Wavefront Sensorless Adaptive Optics (WSL-AO) with Reinforcement Learning" />
+        <img src="/img/WFAO.png" alt="Wavefront Sensorless Adaptive Optics (WSL-AO) with Reinforcement Learning" />
     </a>
     <div class="research-description">
         <h3>Reinforcement Learning for Wavefront Sensorless Adaptive Optics (Optical Satcom)</h3>
