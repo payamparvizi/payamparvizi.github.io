@@ -125,7 +125,7 @@ permalink:  /
         <img src="/img/WFAO.png" alt="Wavefront Sensorless Adaptive Optics (WSL-AO) with Reinforcement Learning" />
     </a>
     <div class="research-description">
-        <h3>Reinforcement Learning for Wavefront Sensorless Adaptive Optics (Optical Satcom)</h3>
+        <h3>Reinforcement Learning for Wavefront Sensorless Adaptive Optics</h3>
         <p>
         This work develops a simulated wavefront sensorless adaptive optics (AO) reinforcement learning (RL) environment for 
         training and evaluating RL algorithms. It is the first AO–RL environment implemented using the OpenAI Gymnasium 
