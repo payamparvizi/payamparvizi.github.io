@@ -113,16 +113,11 @@ permalink:  /
     <div class="research-description">
         <h3>Sim-to-Real Reinforcement Learning for Quadrotor Control</h3>
         <p>
-        This project develops a full sim-to-real reinforcement learning pipeline for
-        quadrotor control using <b>Proximal Policy Optimization (PPO)</b>. A unified training
-        framework is designed for both simulation and real-world deployment on the
-        Crazyflie 2.1 nano-quadrotor, enabling stable hovering and safe real-time control.
-        The work integrates onboard sensing, wireless communication, and safety-constrained
-        action limits to bridge the simulation-to-real gap.<br><br>
-        <i>
-        Research project involving real-world deployment on physical quadrotor platforms.
-        Open-source implementation with reproducible sim-to-real experiments.
-        </i>
+        This work develops a sim-to-real reinforcement learning framework for quadrotor control
+        using the Proximal Policy Optimization (PPO) algorithm. A training approach is designed
+        for both simulation and real-world deployment on the Crazyflie 2.1 nano-quadrotor,
+        enabling stable hovering control.<br><br>
+        <a href="https://github.com/your-repo" target="_blank">Code</a>
         </p>
     </div>
 </div>
