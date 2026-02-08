@@ -153,17 +153,23 @@ permalink:  /
         <img src="/img/robotic-deburring.png" alt="Robotic Deburring via Learning from Demonstration" />
     </a>
     <div class="research-description">
-        <h3>Development of a High-Precision Hybrid Robotic Deburring System</h3>
+        <h3>Robotic Deburring via Learning from Demonstration</h3>
         <p>
         This work presents a learning-from-demonstration approach for robotic deburring of
         workpieces with unknown shapes. Task-relevant motions of a human expert were recorded
-        using a 6-DOF haptic device and encoded using augmented
+        using 6-DOF and 1-DOF haptic devices and encoded using augmented
         <b>Dynamic Movement Primitives (DMPs)</b> to generate adaptable deburring trajectories.
         The learned primitives enable adaptation to different start and goal positions and were
-        validated through force-controlled robotic deburring experiments.
+        validated through force-controlled robotic deburring experiments.<br><br>
+        <i>
+        M.Sc. Thesis project, part of the
+        “Development of a High-Precision Hybrid Robotic Deburring System”
+        research project funded by TÜBİTAK.
+        </i>
         </p>
     </div>
 </div>
+
 <!-- -->
     <!-- -->
     <!-- Blog -->
