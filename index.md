@@ -147,6 +147,30 @@ permalink:  /
         </p>
     </div>
 </div>
+
+<div class="list-item research-project research" data-category="research">
+    <a href="#" onclick="event.preventDefault()" class="research-thumbnail">
+        <img src="/img/robotic-deburring.jpg" alt="Robotic Deburring via Learning from Demonstration" />
+    </a>
+    <div class="research-description">
+        <h3>Robotic Deburring via Learning from Demonstration</h3>
+        <p>
+        Learning precise robotic deburring skills from human experts using motion primitives.
+        Human wrist motions and interaction forces were captured using 6-DOF and 1-DOF haptic devices,
+        and encoded using <b>Dynamic Movement Primitives (DMPs)</b> to enable generalization across
+        unknown workpiece geometries.<br><br>
+
+        The system integrates force/torque sensing, teleoperation, and adaptive trajectory generation
+        to achieve micron-level precision in industrial deburring and grinding tasks.
+        The learned skills were deployed on a hexapod-based robotic deburring platform with
+        piezoelectric actuation and force feedback control.<br><br>
+
+        <i>M.Sc. Thesis, Mechanical Engineering — Project Assistant</i><br>
+        <a href="/pdf/Demonstration_of_Robotic_Debur.pdf" target="_blank">Thesis (PDF)</a>
+        </p>
+    </div>
+</div>
+
 <!-- -->
 
     <!-- -->
