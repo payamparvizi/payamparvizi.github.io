@@ -40,13 +40,12 @@ permalink:  /
 
 <br><br><br>
 <div id="filters" class="button-group">
-    <!-- <button class="button is-checked" data-filter=".research">Highlights</button> -->
     <button class="button" data-filter=".research">Research</button>
     <button class="button" data-filter=".publication">Publications</button>
-   <!-- <button class="button" data-filter=".talk">Talks</button>
-    <button class="button" data-filter=".blog">Blog</button>-->
-    <button class="button" data-filter=".service">More</button>
+    <button class="button" data-filter=".talk">Talks</button>
+    <button class="button" data-filter=".updates">News</button>
 </div>
+
 
 <div class="grid">
 <style>
