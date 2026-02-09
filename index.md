@@ -205,14 +205,14 @@ permalink:  /
         </a>
         <div class="project-description">
             <h3>
-                <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Parametrization%20of%20robotic%20deburring%20process%20with%20motor%20skills%20from%20motion%20primitives%20of%20human%20skill%20model" target="_blank">
+                <a href="https://ieeexplore.ieee.org/abstract/document/8046856" target="_blank">
                     Parametrization of Robotic Deburring Process with Motor Skills from Motion Primitives of Human Skill Model
                 </a>
             </h3>
             <p>
                 <b>Payam Parvizi</b>, Musab Çağrı Uğurlu, Kemal Açıkgöz, Erhan İlhan Konukseven<br>
                 <i>IEEE International Conference on Methods and Models in Automation and Robotics (MMAR), 2017</i><br>
-                <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Parametrization%20of%20robotic%20deburring%20process%20with%20motor%20skills%20from%20motion%20primitives%20of%20human%20skill%20model" target="_blank">Paper</a>
+                <a href="https://ieeexplore.ieee.org/abstract/document/8046856" target="_blank">Paper</a>
             </p>
         </div>
     </div>
