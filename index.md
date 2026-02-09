@@ -200,6 +200,23 @@ permalink:  /
         </div>
     </div>
     <div class="list-item publication" data-category="publication">
+    <a href="#" class="thumbnail">
+        <img src="/img/robotic-deburring.png" alt="MSc Thesis: Robotic Deburring via Motion Primitives" />
+    </a>
+    <div class="project-description">
+        <h3>
+             <a href="https://open.metu.edu.tr/handle/11511/27117" target="_blank">
+            Demonstration of Robotic Deburring Process Motor Skills from Motion Primitives of Human Skill Model
+            </a>
+        </h3>
+        <p>
+            <b>Payam Parvizi</b><br>
+            <i>M.Sc. Thesis, Middle East Technical University (METU), 2018</i><br>
+            <a href="https://open.metu.edu.tr/handle/11511/27117" target="_blank">Thesis</a>
+        </p>
+    </div>
+</div>
+    <div class="list-item publication" data-category="publication">
     <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Dynamic%20movement%20primitives%20and%20force%20feedback%3A%20Teleoperation%20in%20precision%20grinding%20process" class="thumbnail" target="_blank">
         <img src="/img/1dof_dmp.png" alt="Teleoperation and Force Feedback in Precision Grinding" />
     </a>
