@@ -212,7 +212,7 @@ permalink:  /
         <p>
             <b>Payam Parvizi</b><br>
             <i>M.Sc. Thesis, Middle East Technical University (METU), 2018</i><br>
-            <a href="https://open.metu.edu.tr/handle/11511/27117" target="_blank">Thesis</a>
+            <a href="https://open.metu.edu.tr/handle/11511/27117" target="_blank">M.Sc. Thesis</a>
         </p>
     </div>
 </div>
