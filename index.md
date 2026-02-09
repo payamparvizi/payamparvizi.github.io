@@ -201,7 +201,7 @@ permalink:  /
     </div>
     <div class="list-item publication" data-category="publication">
     <a href="#" class="thumbnail">
-        <img src="/img/robotic-deburring.png" alt="MSc Thesis: Robotic Deburring via Motion Primitives" />
+        <img src="/img/dmp_test_setup.png" alt="MSc Thesis: Robotic Deburring via Motion Primitives" />
     </a>
     <div class="project-description">
         <h3>
