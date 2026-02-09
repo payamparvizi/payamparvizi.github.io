@@ -200,6 +200,23 @@ permalink:  /
         </div>
     </div>
     <div class="list-item publication" data-category="publication">
+        <a href="#" class="thumbnail">
+            <img src="/img/coat_t.png" alt="Wavefront Sensorless Adaptive Optics with Reinforcement Learning" />
+        </a>
+        <div class="project-description">
+            <h3>
+                <a href="https://hal.science/hal-04605102/" target="_blank">
+                Wavefront Sensorless Adaptive Optics for Free-Space Satellite-to-Ground Communication Using Reinforcement Learning
+                </a>
+            </h3>
+            <p>
+                Runnan Zou, <b>Payam Parvizi</b>, Ross Cheriton, Colin Bellinger, Davide Spinello<br>
+                <i>COAT 2023</i><br>
+                <a href="https://hal.science/hal-04605102/" target="_blank">Paper</a>
+            </p>
+        </div>
+    </div>
+    <div class="list-item publication" data-category="publication">
     <a href="#" class="thumbnail">
         <img src="/img/dmp_test_setup.png" alt="MSc Thesis: Robotic Deburring via Motion Primitives" />
     </a>
