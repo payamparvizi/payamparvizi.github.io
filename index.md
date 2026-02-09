@@ -201,7 +201,7 @@ permalink:  /
     </div>
     <div class="list-item publication" data-category="publication">
     <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Dynamic%20movement%20primitives%20and%20force%20feedback%3A%20Teleoperation%20in%20precision%20grinding%20process" class="thumbnail" target="_blank">
-        <img src="/img/robotic-deburring.png" alt="Teleoperation and Force Feedback in Precision Grinding" />
+        <img src="/img/1dof_dmp.png" alt="Teleoperation and Force Feedback in Precision Grinding" />
     </a>
     <div class="project-description">
         <h3>
