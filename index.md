@@ -200,6 +200,23 @@ permalink:  /
         </div>
     </div>
     <div class="list-item publication" data-category="publication">
+    <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Dynamic%20movement%20primitives%20and%20force%20feedback%3A%20Teleoperation%20in%20precision%20grinding%20process" class="thumbnail" target="_blank">
+        <img src="/img/robotic-deburring.png" alt="Teleoperation and Force Feedback in Precision Grinding" />
+    </a>
+    <div class="project-description">
+        <h3>
+            <a href="https://ieeexplore.ieee.org/abstract/document/8266228" target="_blank">
+                Dynamic Movement Primitives and Force Feedback: Teleoperation in Precision Grinding Process
+            </a>
+        </h3>
+        <p>
+            Kemal Açıkgöz, <b>Payam Parvizi</b>, Abdulhamit Dönder, Musab Çağrı Uğurlu, Erhan İlhan Konukseven<br>
+            <i>IEEE International Conference on Electrical and Electronics Engineering (ELECO), 2017</i><br>
+            <a href="https://ieeexplore.ieee.org/abstract/document/8266228" target="_blank">Paper</a>
+        </p>
+    </div>
+</div>
+    <div class="list-item publication" data-category="publication">
         <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Parametrization%20of%20robotic%20deburring%20process%20with%20motor%20skills%20from%20motion%20primitives%20of%20human%20skill%20model" class="thumbnail" target="_blank">
             <img src="/img/robotic-deburring.png" alt="Robotic Deburring via Motion Primitives" />
         </a>
