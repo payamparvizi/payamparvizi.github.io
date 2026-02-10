@@ -332,7 +332,7 @@ permalink:  /
       <p class="date">2023</p><b>Poster Presentation</b> — Technology for the Digital Transformation of Society, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a>
     </div>
     <div class="list-item talk" data-category="talk">
-      <p class="date"></p><b>Seminar Talk</b> — AI for Design Seminar, <a href="https://nrc.canada.ca/" target="_blank">NRC</a>
+      <p class="date"></p><b>Seminar Talk</b> — AI for Design Seminar, <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>
     </div>
     <div class="list-item talk" data-category="talk">
       <p class="date"></p><b>Poster Presentation</b> — <a href="https://www.photonicsnorth.com/en" target="_blank">Photonics North</a> (Montreal, Canada)
@@ -349,7 +349,7 @@ permalink:  /
             <b>Postdoctoral Research Associate</b>, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> (Nov. 2025 – Present)<br>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>Research Assistant</b>, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> & <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a> (Apr. 2022 – Sept. 2025)<br>
+            <b>Research Assistant</b>, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> & <a href="https://nrc.canada.ca/" target="_blank">NRC</a> (Apr. 2022 – Sept. 2025)<br>
         </li>
         <li style="margin-bottom: 0.75em;">
             <b>Teaching Assistant</b>, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> (Jan. 2019 – Apr. 2022)<br>
