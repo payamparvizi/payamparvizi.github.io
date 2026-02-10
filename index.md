@@ -200,7 +200,7 @@ permalink:  /
         </div>
     </div>
     <div class="list-item publication" data-category="publication">
-        <a href="#" class="thumbnail">
+        <a href="https://hal.science/hal-04605102/" class="thumbnail">
             <img src="/img/coat_t.png" alt="Wavefront Sensorless Adaptive Optics with Reinforcement Learning" />
         </a>
         <div class="project-description">
@@ -217,7 +217,7 @@ permalink:  /
         </div>
     </div>
     <div class="list-item publication" data-category="publication">
-    <a href="#" class="thumbnail">
+    <a href="https://open.metu.edu.tr/handle/11511/27117" class="thumbnail">
         <img src="/img/dmp_test_setup.png" alt="MSc Thesis: Robotic Deburring via Motion Primitives" />
     </a>
     <div class="project-description">
@@ -234,7 +234,7 @@ permalink:  /
     </div>
 </div>
     <div class="list-item publication" data-category="publication">
-    <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Dynamic%20movement%20primitives%20and%20force%20feedback%3A%20Teleoperation%20in%20precision%20grinding%20process" class="thumbnail" target="_blank">
+    <a href="https://ieeexplore.ieee.org/abstract/document/8266228" class="thumbnail" target="_blank">
         <img src="/img/1dof_dmp.png" alt="Teleoperation and Force Feedback in Precision Grinding" />
     </a>
     <div class="project-description">
@@ -251,7 +251,7 @@ permalink:  /
     </div>
 </div>
     <div class="list-item publication" data-category="publication">
-        <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Parametrization%20of%20robotic%20deburring%20process%20with%20motor%20skills%20from%20motion%20primitives%20of%20human%20skill%20model" class="thumbnail" target="_blank">
+        <a href="https://ieeexplore.ieee.org/abstract/document/8046856" class="thumbnail" target="_blank">
             <img src="/img/robotic-deburring.png" alt="Robotic Deburring via Motion Primitives" />
         </a>
         <div class="project-description">
