@@ -378,10 +378,9 @@ permalink:  /
     </ul>
     <h2>Teaching Experience</h2><br>
     <ul style="list-style-type: disc; margin-left: 1.5em;">
-        <li style="margin-bottom: 0.75em;"> CMPUT 340: Introduction to Numerical Methods (Winter 2024) </li>
-        <li style="margin-bottom: 0.75em;"> CMPUT 653: Real-Time Policy Learning (Fall 2023) </li>
-        <li style="margin-bottom: 0.75em;"> CMPUT 365: An Introduction to Reinforcement Learning (Winter 2021, Winter 2022, Fall 2022) </li>
-        <li style="margin-bottom: 0.75em;"> CMPUT 174: Introduction to the Foundations of Computation I (Fall 2015, Winter 2016, Fall 2020) </li>
+        <li style="margin-bottom: 0.75em;"> MCG 3307: Control Systems (Winter 2019, 2020, 2021 & 2022) </li>
+        <li style="margin-bottom: 0.75em;"> MCG 3306: System Dynamics (Fall 2020 & 2021) </li>
+        <li style="margin-bottom: 0.75em;"> MCG 3305: Biomedical System Dynamics (Fall 2019) </li>
     </ul>
     <h2>Certifications</h2><br>
     <ul style="list-style-type: disc; margin-left: 1.5em;">
