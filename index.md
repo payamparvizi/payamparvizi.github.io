@@ -200,6 +200,24 @@ permalink:  /
         </div>
     </div>
     <div class="list-item publication" data-category="publication">
+    <a href="https://www.mdpi.com/2304-6732/10/12/1371" class="thumbnail" target="_blank">
+        <img src="/img/WFAO.png" alt="RL Environment for Wavefront Sensorless Adaptive Optics" />
+    </a>
+    <div class="project-description">
+        <h3>
+            <a href="https://www.mdpi.com/2304-6732/10/12/1371" target="_blank">
+                Reinforcement Learning Environment for Wavefront Sensorless Adaptive Optics in Single-Mode Fiber-Coupled Optical Satellite Communications Downlinks
+            </a>
+        </h3>
+        <p>
+            <b>Payam Parvizi</b>, Runnan Zou, Colin Bellinger, Ross Cheriton, Davide Spinello<br>
+            <i>Photonics, vol. 10, no. 12, 2023 (MDPI)</i><br>
+            <a href="https://www.mdpi.com/2304-6732/10/12/1371" target="_blank">Paper</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+            <a href="https://github.com/payamparvizi/adaptive_optics_gym" target="_blank">Code</a>
+        </p>
+    </div>
+</div>
+    <div class="list-item publication" data-category="publication">
         <a href="https://hal.science/hal-04605102/" class="thumbnail">
             <img src="/img/coat_t.png" alt="Wavefront Sensorless Adaptive Optics with Reinforcement Learning" />
         </a>
