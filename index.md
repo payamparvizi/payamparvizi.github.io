@@ -181,24 +181,24 @@ permalink:  /
 <!-- -->
     <!-- Publications -->
     <!-- -->
-    <div class="list-item publication" data-category="publication">
-        <br>
-        <a href="https://openreview.net/forum?id=DX5GUwMFFb" class="thumbnail" target="_blank">
-            <img src="/img/AVG_thumbnail.png" alt="AVG paper thumbnail" />
-        </a>
-        <div class="project-description">
-            <h3><a href="https://arxiv.org/pdf/2411.15370" target="_blank">Deep Policy Gradient Methods Without Batch Updates, Target Networks, or Replay Buffers</a></h3>
-            <p>
-                <b>Gautham Vasan</b>, Mohamed Elsayed, Alireza Azimi, Jiamin He, Fahim Shahriar, Colin Bellinger, Martha White, A. Rupam Mahmood<br>
-                <i>NeurIPS 2024</i><br>
-                <a href="https://arxiv.org/pdf/2411.15370" target="_blank">Paper</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-                <a href="https://github.com/gauthamvasan/avg" target="_blank">Code</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-                <a href="https://colab.research.google.com/drive/1j4ONR062WQ_Fqs0yt07uBdm9zz7HGbte?usp=sharing" target="_blank">Colab</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-                <a href="https://youtu.be/cwwuN6Hyew0" target="_blank">Video Demo</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-                <a href="https://www.youtube.com/watch?v=mQc4ETehniI" target="_blank">Cohere4AI Talk</a>
-            </p>
-        </div>
+<div class="list-item publication" data-category="publication">
+    <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.177004949.91897305" class="thumbnail" target="_blank">
+        <img src="/img/sapps.png" alt="Adaptive Policy Regularization for Smooth Control in Reinforcement Learning" />
+    </a>
+    <div class="project-description">
+        <h3>
+            <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.177004949.91897305" target="_blank">
+                Adaptive Policy Regularization for Smooth Control in Reinforcement Learning
+            </a>
+        </h3>
+        <p>
+            <b>Payam Parvizi</b>, Abhishek Naik, Colin Bellinger, Ross Cheriton, Davide Spinello<br>
+            <i>Optica Open, 2025. In final production at Journal of the Optical Society of America B (Optica).</i><br>
+            <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.177004949.91897305" target="_blank">Paper</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+            <a href="https://github.com/payamparvizi/sapps-rl" target="_blank">Code</a>
+        </p>
     </div>
+</div>
 <div class="list-item publication" data-category="publication">
     <a href="https://ruor.uottawa.ca/items/9fc2648b-795e-4664-9f85-994c346dc621" class="thumbnail">
         <img src="/img/sapps.png" alt="PhD Thesis: Adaptive Policy Smoothing in Reinforcement Learning" />
