@@ -322,23 +322,133 @@ permalink:  /
     </div>
     <!-- Talks -->
     <!-- -->
-<div class="talks-grid">
-      <div class="list-item talk" data-category="talk">
-        <h3 style="margin-top:0;"><b>Deep Policy Gradient Methods Without Batch Updates, Target Networks, or Replay Buffers</b></h3>
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/mQc4ETehniI?si=xG6ZJeOiRRymrDiv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin-top:1em;"></iframe>
-      </div>
-      <div class="list-item talk" data-category="talk">
-        <h3 style="margin-top:0;"><b>Two Issues of Autonomous Robot Learning</b></h3>
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/QO0mmHMJvRQ?si=KGif_tvrkIN06zo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-top:1em;"></iframe>
-      </div>
-      <div class="list-item talk" data-category="talk">
-        <h3 style="margin-top:0;"><b>Reward (Mis-)Specification in Reinforcement Learning</b></h3>
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/yqeiXpbDoKg?si=NuWSQoWizPiLL8Ic&amp;start=517" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-top:1em;"></iframe>
-      </div>
-      <div class="list-item talk" data-category="talk">
-        <h3 style="margin-top:0;"><b>natChat: Neurotech in Artificial Intelligence (2023)</b></h3>
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/kkJ8-k-_CPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-top:1em;"></iframe>
-      </div>
+    <!-- Talks -->
+    <!-- <div class="list-item talk description" data-category="talk">
+      Some of my slides can be found <a href="https://slides.com/andyzeng">here</a>
+    </div> -->
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date">2024</p>UIUC <a href="https://publish.illinois.edu/csl-student-conference-2024">CSL Student Conference</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date">2023</p>EMNLP Workshop on <a href="https://splu-robonlp-2023.github.io/">RoboNLP</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>Cornell <a href="https://www.cs.cornell.edu/content/fall-2023-robotics-seminar">Robotics Seminar</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>MILA <a href="https://www.youtube.com/@MontrealRobotics">Robot Learning Seminar</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>UPenn <a href="https://www.grasp.upenn.edu/events/month/">GRASP SFI Seminar</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>RSS Workshop on <a href="https://sites.google.com/view/rss23-sym">Symmetries in Robot Learning</a> (<a href="https://youtu.be/E2l16T0biu4?t=8514">video</a>)
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>RSS Workshop on <a href="https://ai-workshops.github.io/interdisciplinary-exploration-of-gmpl/">Generalizable Manipulation Policy Learning: Paradigms and Debates</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>CVPR Workshop on <a href="https://scene-understanding.com/">3D Scene Understanding for Vision, Graphics, and Robotics</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>ICRA Workshop on <a href="https://sites.google.com/view/icra2023embracingcontacts/home">Embracing Contact: Making Robots Physically Interact with our World</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>ICRA Round-Table Discussion with Science Robotics
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>ICRA Workshop on <a href="https://life-long-learning-with-human-help-l3h2.github.io/">Life-Long Learning with Human Help</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>Panel on Northwestern <a href="https://robotics.northwestern.edu/grand-challenges/">Grand Challenges in Robotics</a> (<a href="https://www.youtube.com/watch?v=Vj50Z7az3TY">video</a>)
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>Guest Lecture at Columbia <a href="https://robotics.columbia.edu/content/courses">COMS 4733: Computational Aspects of Robotics</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>Stanford <a href="https://svl.stanford.edu/">Vision and Learning Lab</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date">2022</p>CoRL Workshop on <a href="https://sites.google.com/view/langrob-corl22/">Language and Robot Learning</a> (<a href="https://www.youtube.com/watch?v=XQco1A6-RNI&t=18702s">video</a>)
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>NeurIPS Workshop on <a href="http://www.robot-learning.ml/2022/">Robot Learning</a> (<a href="https://youtu.be/nxFwcfEp0II">video</a>)
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>NeurIPS Workshop on <a href="https://aihabitat.org/challenge/2022_rearrange/">Habitat Rearrangement Challenge</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>Guest Lecture at Columbia <a href="https://www.coursicle.com/columbia/courses/IEOR/E6617/">IEOR E6617: Machine Learning and High-Dimensional Data</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>Princeton <a href="https://robo.princeton.edu/seminar">Robotics Seminar</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>RSS Workshop on <a href="https://imrss2022.github.io/">Implicit Representations</a> (<a href="https://youtu.be/ZIjNF39QKCI?list=PLfF8jFeyEb59OwSqCZM2RuW6VhPPFvK0s">video</a>)
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>CVPR Tutorial on <a href="https://sites.google.com/view/cvpr2022-robot-learning/">Vision-Based Robot Learning</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>MIT <a href="https://ei.csail.mit.edu/csl.html">CSL Seminar</a> (<a href="https://youtu.be/QX47jTL5XUM">video</a>)
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>Guest Lecture at Columbia <a href="https://sites.google.com/view/spring2022-coms4733/home">COMS 4733: Computational Aspects of Robotics</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date">2021</p>CVPR Workshop on <a href="https://sites.google.com/view/cvpr2021-3d-vision-robotics">3D Vision and Robotics</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>Guest Lecture at <a href="http://michaelryoo.com/course/cse525/">Stony Brook University CSE525: Introduction to Robotics</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>Guest Lecture at <a href="https://www.coursicle.com/nyu/courses/CSCIUA/74/">NYU CSCI-UA 74: Big Ideas in Artificial Intelligence</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date">2020</p>RSS Workshop on <a href="https://www.brainlinks-braintools.uni-freiburg.de/rss-2020-workshop/">Self-Supervised Robot Learning</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>RSS Workshop on <a href="https://sites.google.com/stanford.edu/roboticsretrospectives/home">Robotics Retrospectives</a> (<a href="https://www.youtube.com/watch?v=rjMmsIN7B0A">video</a>)
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date">2019</p>Amazon Research <a href="https://www.amazon.jobs/pt/teams/amazon-robotics">Robotics Symposium</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date">2018</p>RE·WORK <a href="https://blog.re-work.co/deep-learning-for-robotics-ai-industrial-automation-summit-highlights/">Deep Learning for Robotics Summit</a>
+    </div>
+
+    <div class="list-item talk" data-category="talk">
+      <p class="date"></p>Guest Lecture at NCTU Robotics Seminar: Robotic Manipulation
     </div>
     <!-- -->
     <!-- Community Service -->
