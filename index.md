@@ -193,7 +193,7 @@ permalink:  /
         </h3>
         <p>
             <b>Payam Parvizi</b>, Abhishek Naik, Colin Bellinger, Ross Cheriton, Davide Spinello<br>
-            <i>Optica Open, 2025. In final production at Journal of the Optical Society of America B (Optica).</i><br>
+            <i>TechRxiv, 2026. Submitted to IEEE Transactions on Automation Science and Engineering</i><br>
             <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.177004949.91897305" target="_blank">Paper</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
             <a href="https://github.com/payamparvizi/sapps-rl" target="_blank">Code</a>
         </p>
@@ -228,7 +228,7 @@ permalink:  /
         </h3>
         <p>
             <b>Payam Parvizi</b>, Colin Bellinger, Ross Cheriton, Abhishek Naik, Davide Spinello<br>
-            <i>Optica Open, 2025. In final production at Journal of the Optical Society of America B (Optica).</i><br>
+            <i>Optica Open, 2025. In final production at Journal of the Optical Society of America B (Optica)</i><br>
             <a href="https://doi.org/10.1364/opticaopen.30043543" target="_blank">Paper</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
             <a href="https://github.com/payamparvizi/wavefront-sensorless-adaptive-optics-rl" target="_blank">Code</a>
         </p>
