@@ -323,19 +323,19 @@ permalink:  /
     <!-- Talks -->
     <!-- Talks / Presentations -->
     <div class="list-item talk" data-category="talk">
-      <p class="date">2025</p><b>Poster Presentation</b> — Photonics North (Ottawa, Canada)
+      <p class="date">2025</p><b>Poster Presentation</b> — <a href="https://www.photonicsnorth.com/en" target="_blank">Photonics North</a> (Ottawa, Canada)
     </div>
     <div class="list-item talk" data-category="talk">
-      <p class="date"></p><b>Seminar Talk</b> — MCG Seminars, Department of Mechanical Engineering, University of Ottawa
+      <p class="date"></p><b>Seminar Talk</b> — MCG Seminars, Department of Mechanical Engineering, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a>
     </div>
     <div class="list-item talk" data-category="talk">
-      <p class="date">2023</p><b>Poster Presentation</b> — Technology for the Digital Transformation of Society, University of Ottawa
+      <p class="date">2023</p><b>Poster Presentation</b> — Technology for the Digital Transformation of Society, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a>
     </div>
     <div class="list-item talk" data-category="talk">
-      <p class="date"></p><b>Seminar Talk</b> — AI for Design Seminar, National Research Council of Canada (NRC)
+      <p class="date"></p><b>Seminar Talk</b> — AI for Design Seminar, <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>
     </div>
     <div class="list-item talk" data-category="talk">
-      <p class="date"></p><b>Poster Presentation</b> — Photonics North (Montreal, Canada)
+      <p class="date"></p><b>Poster Presentation</b> — <a href="https://www.photonicsnorth.com/en" target="_blank">Photonics North</a> (Montreal, Canada)
     </div>
     <!-- -->
     <!-- Community Service -->
