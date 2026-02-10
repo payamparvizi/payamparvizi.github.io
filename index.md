@@ -346,24 +346,22 @@ permalink:  /
     <h2>Work Experience</h2><br>
     <ul style="list-style-type: disc; margin-left: 1.5em;">
         <li style="margin-bottom: 0.75em;">
-            <b>Postdoctoral Research Associate</b>, University of Ottawa (2025–Present)<br>
-            Research on reinforcement learning regularization and smooth control for real-world systems, with applications to robotics and wavefront sensorless adaptive optics.
+            <b>Postdoctoral Research Associate</b>, University of Ottawa (Nov. 2025 – Present)<br>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>Research Assistant</b>, University of Ottawa & National Research Council of Canada (2022–2025)<br>
-            Developed Gymnasium-compatible reinforcement learning environments and control algorithms for wavefront sensorless adaptive optics in optical satellite communication downlinks.
+            <b>Research Assistant</b>, University of Ottawa & National Research Council of Canada (Apr. 2022 – Sept. 2025)<br>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>Project Assistant</b>, Middle East Technical University & TÜBİTAK (2015–2017)<br>
-            Worked on robotic deburring systems, transferring human motor skills to industrial robots using learning-from-demonstration and motion primitives.
+            <b>Teaching Assistant</b>, University of Ottawa (Jan. 2019 – Apr. 2022)<br>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>Engineering Intern</b>, Mercedes-Benz Türk<br>
-            Mechanical design and analysis using CATIA; supported component-level improvements in production systems.
+            <b>Project Assistant</b>, Middle East Technical University & TÜBİTAK (Nov. 2015 – Nov. 2017)<br>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>Engineering Intern</b>, Turkish Airlines Technic<br>
-            Exposure to aircraft maintenance, repair, and overhaul (MRO) processes and inspection procedures.
+            <b>R&D Intern</b>, Mercedes-Benz Türk Inc. (Jun. 2013 - Aug. 2013)<br>
+        </li>
+        <li style="margin-bottom: 0.75em;">
+            <b>Maintenance Engineering Intern</b>, Turkish Airlines Technic (Jan. 2012 - Mar. 2012)<br>
         </li>
     </ul>
     <h2>Education</h2><br>
