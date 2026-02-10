@@ -368,14 +368,12 @@ permalink:  /
     <ul style="list-style-type: disc; margin-left: 1.5em;">
         <li style="margin-bottom: 0.75em;">
             <b>Ph.D. in Mechanical Engineering</b>, University of Ottawa, 2025<br>
-            Thesis: <i>Adaptive Policy Smoothing in Reinforcement Learning: Applications to Wavefront Sensorless Adaptive Optics and Robotics</i>
         </li>
         <li style="margin-bottom: 0.75em;">
             <b>M.Sc. in Mechanical Engineering</b>, Middle East Technical University (METU), 2018<br>
-            Thesis: <i>Demonstration of Robotic Deburring Process Motor Skills from Motion Primitives of Human Skill Model</i>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>B.Sc. in Aerospace Engineering</b>, (Turkey)
+            <b>B.Sc. in Aerospace Engineering</b>, Middle East Technical University (METU), 2014<br>
         </li>
     </ul>
     <h2>Teaching Experience</h2><br>
