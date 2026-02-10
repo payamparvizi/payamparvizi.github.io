@@ -201,7 +201,7 @@ permalink:  /
     </div>
 <div class="list-item publication" data-category="publication">
     <a href="https://ruor.uottawa.ca/items/9fc2648b-795e-4664-9f85-994c346dc621" class="thumbnail">
-        <img src="/img/WFAO.png" alt="PhD Thesis: Adaptive Policy Smoothing in Reinforcement Learning" />
+        <img src="/img/sapps.png" alt="PhD Thesis: Adaptive Policy Smoothing in Reinforcement Learning" />
     </a>
     <div class="project-description">
         <h3>
