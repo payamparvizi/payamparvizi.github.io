@@ -199,6 +199,24 @@ permalink:  /
             </p>
         </div>
     </div>
+<div class="list-item publication" data-category="publication">
+    <a href="https://doi.org/10.1364/opticaopen.30043543" class="thumbnail" target="_blank">
+        <img src="/img/WFAO.png" alt="Action-Regularized Reinforcement Learning for Adaptive Optics" />
+    </a>
+    <div class="project-description">
+        <h3>
+            <a href="https://doi.org/10.1364/opticaopen.30043543" target="_blank">
+                Action-Regularized Reinforcement Learning for Adaptive Optics in Optical Satellite Communication
+            </a>
+        </h3>
+        <p>
+            <b>Payam Parvizi</b>, Colin Bellinger, Ross Cheriton, Abhishek Naik, Davide Spinello<br>
+            <i>Journal of the Optical Society of America B (Optica), in final production</i><br>
+            <a href="https://doi.org/10.1364/opticaopen.30043543" target="_blank">Paper</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+            <a href="https://github.com/payamparvizi/wavefront-sensorless-adaptive-optics-rl" target="_blank">Code</a>
+        </p>
+    </div>
+</div>
     <div class="list-item publication" data-category="publication">
     <a href="https://www.mdpi.com/2304-6732/10/12/1371" class="thumbnail" target="_blank">
         <img src="/img/wslao_mdpi.png" alt="RL Environment for Wavefront Sensorless Adaptive Optics" />
