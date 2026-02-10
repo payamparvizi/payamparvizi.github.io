@@ -340,28 +340,67 @@ permalink:  /
     <!-- -->
     <!-- Community Service -->
     <!-- -->
-    <div class="list-item experience" data-category="experience">
-        <br>
-        <h2>Professional Activities</h2><br>
-        <ul style="list-style-type: disc; margin-left: 1.5em;">
-            <li style="margin-bottom: 0.75em;">Workflow Chair for AAAI 2026 </li>
-            <li style="margin-bottom: 0.75em;">Reviewer: ICML, RLC, Collas, ICLR, NeurIPS,  BioRob, ICORR, ICDL, IROS </li>
-            <li style="margin-bottom: 0.75em;"> Candidate selection for the CIFAR Deep Learning and Reinforcement Learning Summer School 2023 & 2024 </li>
-            <li style="margin-bottom: 0.75em;"> Mentoring: Six students at the University of Alberta (undergraduate and masters level) on robot learning research </li>
-        </ul>
-        <h2>Community Service</h2><br>
-        <ul style="list-style-type: disc; margin-left: 1.5em;">
-            <li style="margin-bottom: 0.75em;">Research volunteer with The Hospital for Sick Children (<a href="https://www.sickkids.ca/" target="_blank">SickKids</a>, 2019)</li>
-            <li style="margin-bottom: 0.75em;">Cerebral Palsy and Spasticity Trials: Worked with doctors on a study assessing functional gain in patients affected by stroke or spasticity using assistive robots.</li>
-        </ul>
-        <h2>Teaching Experience</h2><br>
-        <ul style="list-style-type: disc; margin-left: 1.5em;">
-            <li style="margin-bottom: 0.75em;"> CMPUT 340: Introduction to Numerical Methods (Winter 2024) </li>
-            <li style="margin-bottom: 0.75em;"> CMPUT 653: Real-Time Policy Learning (Fall 2023) </li>
-            <li style="margin-bottom: 0.75em;"> CMPUT 365: An Introduction to Reinforcement Learning (Winter 2021, Winter 2022, Fall 2022) </li>
-            <li style="margin-bottom: 0.75em;"> CMPUT 174: Introduction to the Foundations of Computation I (Fall 2015, Winter 2016, Fall 2020) </li>
-        </ul>
-    </div>
+<!-- Experience -->
+<div class="list-item experience" data-category="experience">
+    <br>
+    <h2>Work Experience</h2><br>
+    <ul style="list-style-type: disc; margin-left: 1.5em;">
+        <li style="margin-bottom: 0.75em;">
+            <b>Postdoctoral Research Associate</b>, University of Ottawa (2025–Present)<br>
+            Research on reinforcement learning regularization and smooth control for real-world systems, with applications to robotics and wavefront sensorless adaptive optics.
+        </li>
+        <li style="margin-bottom: 0.75em;">
+            <b>Research Assistant</b>, University of Ottawa & National Research Council of Canada (2022–2025)<br>
+            Developed Gymnasium-compatible reinforcement learning environments and control algorithms for wavefront sensorless adaptive optics in optical satellite communication downlinks.
+        </li>
+        <li style="margin-bottom: 0.75em;">
+            <b>Project Assistant</b>, Middle East Technical University & TÜBİTAK (2015–2017)<br>
+            Worked on robotic deburring systems, transferring human motor skills to industrial robots using learning-from-demonstration and motion primitives.
+        </li>
+        <li style="margin-bottom: 0.75em;">
+            <b>Engineering Intern</b>, Mercedes-Benz Türk<br>
+            Mechanical design and analysis using CATIA; supported component-level improvements in production systems.
+        </li>
+        <li style="margin-bottom: 0.75em;">
+            <b>Engineering Intern</b>, Turkish Airlines Technic<br>
+            Exposure to aircraft maintenance, repair, and overhaul (MRO) processes and inspection procedures.
+        </li>
+    </ul>
+    <h2>Education</h2><br>
+    <ul style="list-style-type: disc; margin-left: 1.5em;">
+        <li style="margin-bottom: 0.75em;">
+            <b>Ph.D. in Mechanical Engineering</b>, University of Ottawa, 2025<br>
+            Thesis: <i>Adaptive Policy Smoothing in Reinforcement Learning: Applications to Wavefront Sensorless Adaptive Optics and Robotics</i>
+        </li>
+        <li style="margin-bottom: 0.75em;">
+            <b>M.Sc. in Mechanical Engineering</b>, Middle East Technical University (METU), 2018<br>
+            Thesis: <i>Demonstration of Robotic Deburring Process Motor Skills from Motion Primitives of Human Skill Model</i>
+        </li>
+        <li style="margin-bottom: 0.75em;">
+            <b>B.Sc. in Aerospace Engineering</b>, (Turkey)
+        </li>
+    </ul>
+    <h2>Teaching Experience</h2><br>
+    <ul style="list-style-type: disc; margin-left: 1.5em;">
+        <li style="margin-bottom: 0.75em;">
+            Teaching Assistant — Multiple undergraduate courses (University of Ottawa)<br>
+            Topics included numerical methods, robotics, and control; supported labs, assignments, and student mentoring.
+        </li>
+        <li style="margin-bottom: 0.75em;">
+            Mentored undergraduate and M.Sc. students on reinforcement learning and robotics research projects.
+        </li>
+    </ul>
+    <h2>Certifications</h2><br>
+    <ul style="list-style-type: disc; margin-left: 1.5em;">
+        <li style="margin-bottom: 0.75em;">
+            <b>MIT MicroMasters</b> — Statistics and Data Science
+        </li>
+        <li style="margin-bottom: 0.75em;">
+            <b>MIT</b> — Introduction to Computer Science and Programming Using Python
+        </li>
+    </ul>
+</div>
+
 </div>
 
 <div id="footer">
