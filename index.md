@@ -346,22 +346,22 @@ permalink:  /
     <h2>Work Experience</h2><br>
     <ul style="list-style-type: disc; margin-left: 1.5em;">
         <li style="margin-bottom: 0.75em;">
-            <b>Postdoctoral Research Associate</b>, University of Ottawa (Nov. 2025 – Present)<br>
+            <b>Postdoctoral Research Associate</b>, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> (Nov. 2025 – Present)<br>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>Research Assistant</b>, University of Ottawa & National Research Council of Canada (Apr. 2022 – Sept. 2025)<br>
+            <b>Research Assistant</b>, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> & <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a> (Apr. 2022 – Sept. 2025)<br>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>Teaching Assistant</b>, University of Ottawa (Jan. 2019 – Apr. 2022)<br>
+            <b>Teaching Assistant</b>, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> (Jan. 2019 – Apr. 2022)<br>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>Project Assistant</b>, Middle East Technical University & TÜBİTAK (Nov. 2015 – Nov. 2017)<br>
+            <b>Project Assistant</b>, <a href="https://www.metu.edu.tr/" target="_blank">Middle East Technical University</a> & <a href="https://tubitak.gov.tr/en" target="_blank">TÜBİTAK</a> (Nov. 2015 – Nov. 2017)<br>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>R&D Intern</b>, Mercedes-Benz Türk Inc. (Jun. 2013 - Aug. 2013)<br>
+            <b>R&D Intern</b>, <a href="https://www.mercedesbenzturk.com.tr/" target="_blank">Mercedes-Benz Türk Inc.</a> (Jun. 2013 - Aug. 2013)<br>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>Maintenance Engineering Intern</b>, Turkish Airlines Technic (Jan. 2012 - Mar. 2012)<br>
+            <b>Maintenance Engineering Intern</b>, <a href="https://turkishtechnic.com/" target="_blank">Turkish Airlines Technic</a>  (Jan. 2012 - Mar. 2012)<br>
         </li>
     </ul>
     <h2>Education</h2><br>
