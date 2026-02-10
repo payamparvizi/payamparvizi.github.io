@@ -211,7 +211,7 @@ permalink:  /
         </h3>
         <p>
             <b>Payam Parvizi</b>, Colin Bellinger, Ross Cheriton, Abhishek Naik, Davide Spinello<br>
-            <i>Journal of the Optical Society of America B (Optica), in final production</i><br>
+            <i>Optica Open, 2025. In final production at Journal of the Optical Society of America B (Optica).</i><br>
             <a href="https://doi.org/10.1364/opticaopen.30043543" target="_blank">Paper</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
             <a href="https://github.com/payamparvizi/wavefront-sensorless-adaptive-optics-rl" target="_blank">Code</a>
         </p>
