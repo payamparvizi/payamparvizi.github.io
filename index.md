@@ -201,7 +201,7 @@ permalink:  /
     </div>
     <div class="list-item publication" data-category="publication">
     <a href="https://www.mdpi.com/2304-6732/10/12/1371" class="thumbnail" target="_blank">
-        <img src="/img/WFAO.png" alt="RL Environment for Wavefront Sensorless Adaptive Optics" />
+        <img src="/img/wslao_mdpi.png" alt="RL Environment for Wavefront Sensorless Adaptive Optics" />
     </a>
     <div class="project-description">
         <h3>
