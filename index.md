@@ -386,9 +386,11 @@ permalink:  /
     <ul style="list-style-type: disc; margin-left: 1.5em;">
         <li style="margin-bottom: 0.75em;">
             <b>MIT MicroMasters</b> — Statistics and Data Science
-        </li>
-        <li style="margin-bottom: 0.75em;">
-            <b>MIT</b> — Introduction to Computer Science and Programming Using Python
+            <ul style="list-style-type: circle; margin-left: 1.5em; margin-top: 0.4em;">
+                <li>Machine Learning with Python</li>
+                <li>Fundamentals of Statistics</li>
+                <li>Probability</li>
+            </ul>
         </li>
     </ul>
 </div>
