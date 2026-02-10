@@ -200,6 +200,23 @@ permalink:  /
         </div>
     </div>
 <div class="list-item publication" data-category="publication">
+    <a href="https://ruor.uottawa.ca/items/9fc2648b-795e-4664-9f85-994c346dc621" class="thumbnail">
+        <img src="/img/WFAO.png" alt="PhD Thesis: Adaptive Policy Smoothing in Reinforcement Learning" />
+    </a>
+    <div class="project-description">
+        <h3>
+            <a href="https://ruor.uottawa.ca/items/9fc2648b-795e-4664-9f85-994c346dc621" target="_blank">
+                Adaptive Policy Smoothing in Reinforcement Learning: Applications to Wavefront Sensorless Adaptive Optics and Robotics
+            </a>
+        </h3>
+        <p>
+            <b>Payam Parvizi</b><br>
+            <i>Ph.D. Thesis, University of Ottawa, 2025</i><br>
+            <a href="https://ruor.uottawa.ca/items/9fc2648b-795e-4664-9f85-994c346dc621" target="_blank">Ph.D. Thesis</a>
+        </p>
+    </div>
+</div>
+<div class="list-item publication" data-category="publication">
     <a href="https://doi.org/10.1364/opticaopen.30043543" class="thumbnail" target="_blank">
         <img src="/img/WFAO.png" alt="Action-Regularized Reinforcement Learning for Adaptive Optics" />
     </a>
