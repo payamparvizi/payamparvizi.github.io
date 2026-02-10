@@ -367,13 +367,13 @@ permalink:  /
     <h2>Education</h2><br>
     <ul style="list-style-type: disc; margin-left: 1.5em;">
         <li style="margin-bottom: 0.75em;">
-            <b>Ph.D. in Mechanical Engineering</b>, University of Ottawa, 2025<br>
+            <b>Ph.D. in Mechanical Engineering</b>, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a>, 2025<br>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>M.Sc. in Mechanical Engineering</b>, Middle East Technical University (METU), 2018<br>
+            <b>M.Sc. in Mechanical Engineering</b>, <a href="https://www.metu.edu.tr/" target="_blank">Middle East Technical University</a>, 2018<br>
         </li>
         <li style="margin-bottom: 0.75em;">
-            <b>B.Sc. in Aerospace Engineering</b>, Middle East Technical University (METU), 2014<br>
+            <b>B.Sc. in Aerospace Engineering</b>, <a href="https://www.metu.edu.tr/" target="_blank">Middle East Technical University</a>, 2014<br>
         </li>
     </ul>
     <h2>Teaching Experience</h2><br>
