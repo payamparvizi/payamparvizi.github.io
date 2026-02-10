@@ -44,7 +44,7 @@ permalink:  /
     <button class="button" data-filter=".research">Research</button>
     <button class="button" data-filter=".publication">Publications</button>
     <button class="button" data-filter=".talk">Talks</button>
-    <button class="button" data-filter=".service">Service</button>
+    <button class="button" data-filter=".experience">Experience</button>
 </div>
 
 
@@ -340,7 +340,7 @@ permalink:  /
     <!-- -->
     <!-- Community Service -->
     <!-- -->
-    <div class="list-item service" data-category="service">
+    <div class="list-item experience" data-category="experience">
         <br>
         <h2>Professional Activities</h2><br>
         <ul style="list-style-type: disc; margin-left: 1.5em;">
