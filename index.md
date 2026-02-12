@@ -346,7 +346,7 @@ permalink:  /
     <h2>Work Experience</h2><br>
     <ul style="list-style-type: disc; margin-left: 1.5em;">
         <li style="margin-bottom: 0.75em;">
-            <b>Postdoctoral Research Associate</b>, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> (Nov. 2025 – Present)<br>
+            <b>Research Associate</b>, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> (Nov. 2025 – Present)<br>
         </li>
         <li style="margin-bottom: 0.75em;">
             <b>Research Assistant</b>, <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> & <a href="https://nrc.canada.ca/" target="_blank">NRC</a> (Apr. 2022 – Sept. 2025)<br>
