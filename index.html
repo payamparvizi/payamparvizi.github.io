@@ -172,23 +172,44 @@ image: "/assets/img/payam-parvizi-headshot.webp"
 
       <article class="project">
         <div class="project-media media-video">
-          <video controls muted loop playsinline preload="metadata" poster="{{ '/assets/img/crazyflie-poster.webp' | relative_url }}" aria-label="Crazyflie sim-to-real altitude-control experiment">
+          <video controls muted loop playsinline preload="metadata" poster="{{ '/assets/img/crazyflie-poster.webp' | relative_url }}" aria-label="Crazyflie 2.1 real-hardware altitude-control experiment">
             <source src="{{ '/assets/video/crazyflie-sim-to-real.mp4' | relative_url }}" type="video/mp4">
             Your browser does not support embedded video.
           </video>
         </div>
         <div class="project-content">
           <p class="project-number">03 · Sim-to-real robotics</p>
+          
           <h3>Crazyflie Reinforcement Learning</h3>
-          <p>An end-to-end simulation-to-hardware PPO workflow for Crazyflie 2.1 altitude control.</p>
-          <p>Combined multi-seed simulation training with 100 real-hardware episodes, real-time telemetry, safety constraints, and automatic landing.</p>
-          <ul class="tag-list" aria-label="Technologies">
-            <li>PPO</li><li>Crazyflie</li><li>cflib</li><li>W&amp;B</li><li>Hardware</li>
+          
+          <p>
+            An end-to-end simulation-to-hardware PPO workflow for Crazyflie 2.1
+            altitude control.
+          </p>
+          
+          <p>
+            Combined multi-seed simulation training with 100 real-hardware episodes,
+            real-time telemetry, safety constraints, and automatic landing. Policy
+            inference averaged approximately 312 microseconds at a 10 Hz control rate.
+          </p>
+          
+          <ul class="tag-list" aria-label="Technologies and methods">
+            <li>PPO</li>
+            <li>PyTorch</li>
+            <li>Crazyflie</li>
+            <li>cflib</li>
+            <li>Hardware Integration</li>
           </ul>
+          
           <div class="project-links">
-            <a href="https://github.com/payamparvizi/Crazyflie_RL" target="_blank" rel="noopener noreferrer">Code <span aria-hidden="true">↗</span></a>
+            <a
+              href="https://github.com/payamparvizi/Crazyflie_RL"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Code <span aria-hidden="true">↗</span>
+            </a>
           </div>
-        </div>
       </article>
 
       <article class="project">
