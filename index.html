@@ -90,21 +90,49 @@ image: "/assets/img/payam-parvizi-headshot.webp"
     <div class="projects">
       <article class="project project-featured">
         <div class="project-media media-contain">
-          <img src="{{ '/assets/img/sapps.webp' | relative_url }}" width="1000" height="812" alt="Conceptual diagram of SAPPS adapting action smoothing to small and large state changes" loading="lazy" decoding="async">
+          <img src="{{ '/assets/img/sapps.webp' | relative_url }}" width="1000" height="812" alt="alt="Conceptual diagram of SAPPS adapting action smoothing to small and large state changes" loading="lazy" decoding="async">
         </div>
         <div class="project-content">
           <p class="project-number">01 · Method development</p>
+          
           <h3>State-Adaptive Proportional Policy Smoothing (SAPPS)</h3>
-          <p>A trajectory-local policy-regularization method that discourages unnecessary action changes while preserving responsiveness when system states change rapidly.</p>
-          <p>Evaluated across MuJoCo continuous-control tasks, simulated adaptive optics, and Crazyflie control through multi-environment, multi-seed experiments.</p>
-          <ul class="tag-list" aria-label="Technologies">
-            <li>PyTorch</li><li>PPO</li><li>MuJoCo</li><li>HPC/SLURM</li>
+          
+          <p>
+            A trajectory-local policy-regularization method for continuous-control
+            reinforcement learning that scales the penalty on consecutive action changes
+            according to changes in observed state.
+          </p>
+          
+          <p>
+            Implemented with PPO and evaluated across MuJoCo continuous-control benchmarks,
+            simulated wavefront-sensorless adaptive optics, and real Crazyflie
+            altitude-control experiments through multi-environment, multi-seed studies.
+          </p>
+          
+          <ul class="tag-list" aria-label="Technologies and methods">
+            <li>Policy Regularization</li>
+            <li>PPO</li>
+            <li>PyTorch</li>
+            <li>MuJoCo</li>
           </ul>
+          
           <div class="project-links">
-            <a href="https://github.com/payamparvizi/sapps-rl" target="_blank" rel="noopener noreferrer">Code <span aria-hidden="true">↗</span></a>
-            <a href="https://doi.org/10.36227/techrxiv.177004949.91897305" target="_blank" rel="noopener noreferrer">Preprint <span aria-hidden="true">↗</span></a>
+            <a
+              href="https://github.com/payamparvizi/sapps-rl"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Code <span aria-hidden="true">↗</span>
+            </a>
+          
+            <a
+              href="https://doi.org/10.36227/techrxiv.177004949.91897305"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Preprint <span aria-hidden="true">↗</span>
+            </a>
           </div>
-        </div>
       </article>
 
       <article class="project">
