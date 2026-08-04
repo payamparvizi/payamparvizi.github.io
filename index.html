@@ -137,15 +137,31 @@ image: "/assets/img/payam-parvizi-headshot.webp"
 
       <article class="project">
         <div class="project-media media-cover">
-          <img src="{{ '/assets/img/adaptive-optics.webp' | relative_url }}" width="780" height="994" alt="Wavefront-sensorless adaptive optics system for optical satellite communications" loading="lazy" decoding="async">
+          <img src="{{ '/assets/img/adaptive-optics.webp' | relative_url }}" width="780" height="994" alt="Wavefront-sensorless adaptive-optics control system for an optical satellite communication downlink" loading="lazy" decoding="async">
         </div>
         <div class="project-content">
           <p class="project-number">02 · Research software</p>
+          
           <h3>Adaptive Optics Gym</h3>
-          <p>A configurable Gymnasium-compatible environment for reinforcement-learning control of wavefront-sensorless adaptive optics in optical satellite communication downlinks.</p>
-          <p>Models atmospheric turbulence, optical propagation, deformable-mirror control, focal-plane sensing, and single-mode-fiber coupling, with PPO, SAC, and DDPG workflows.</p>
-          <ul class="tag-list" aria-label="Technologies">
-            <li>Gymnasium</li><li>PyTorch</li><li>PPO</li><li>SAC</li><li>DDPG</li>
+          
+          <p>
+            A configurable Gymnasium-compatible environment for reinforcement-learning
+            control of wavefront-sensorless adaptive optics in optical satellite
+            communication downlinks.
+          </p>
+          
+          <p>
+            The environment models atmospheric turbulence, optical propagation,
+            deformable-mirror control, focal-plane sensing, and single-mode-fiber
+            coupling. It includes training and evaluation workflows for PPO, SAC, and
+            DDPG implemented from scratch in PyTorch.
+          </p>
+          
+          <ul class="tag-list" aria-label="Technologies and methods">
+            <li>Adaptive Optics</li>
+            <li>Gymnasium</li>
+            <li>PyTorch</li>
+            <li>PPO / SAC / DDPG</li>
           </ul>
           <div class="project-links">
             <a href="https://github.com/payamparvizi/adaptive_optics_gym" target="_blank" rel="noopener noreferrer">Code <span aria-hidden="true">↗</span></a>
