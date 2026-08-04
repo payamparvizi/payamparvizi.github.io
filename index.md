@@ -29,7 +29,7 @@ permalink:  /
             <a href="https://scholar.google.com/citations?user=nZz4fKIAAAAJ&hl=en" target="_blank">Google Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://github.com/payamparvizi" target="_blank">GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://www.linkedin.com/in/PayamParvizi" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="mailto:pparv056@uottawa.ca" target="_blank">Email</a>
+            <a href="mailto:payam.parvizi@gmail.com" target="_blank">Email</a>
         </p>
     </div>
     <div id="intro-image">
