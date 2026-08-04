@@ -214,24 +214,64 @@ image: "/assets/img/payam-parvizi-headshot.webp"
       </article>
 
       <article class="project">
-        <div class="project-media packing-media" aria-label="Stylized truck-packing occupancy-grid visualization" role="img">
+        <div
+          class="project-media packing-media"
+          role="img"
+          aria-label="Illustration of boxes arranged inside a truck for sequential packing"
+        >
           <div class="truck-shell" aria-hidden="true">
-            <span class="box box-a"></span><span class="box box-b"></span><span class="box box-c"></span><span class="box box-d"></span><span class="box box-e"></span><span class="box box-f"></span>
+            <span class="box box-a"></span>
+            <span class="box box-b"></span>
+            <span class="box box-c"></span>
+            <span class="box box-d"></span>
+            <span class="box box-e"></span>
+            <span class="box box-f"></span>
           </div>
-          <div class="grid-stack" aria-hidden="true"><span></span><span></span><span></span></div>
+      
+          <div class="grid-stack" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
         </div>
+      
         <div class="project-content">
           <p class="project-number">04 · Physics simulation</p>
+          
           <h3>MuJoCo Truck-Packing Simulator &amp; PPO Agent</h3>
-          <p>A completed Gymnasium-compatible MuJoCo research prototype for sequential 3D truck packing.</p>
-          <p>Includes contact physics, boundary and overlap checks, displacement-based stability detection, three occupancy-grid projections, continuous placement actions, and PPO training with custom encoders.</p>
-          <ul class="tag-list" aria-label="Technologies">
-            <li>MuJoCo</li><li>Gymnasium</li><li>Tianshou</li><li>PPO</li><li>CNN</li>
+          
+          <p>
+            A completed Gymnasium-compatible MuJoCo research prototype for sequential
+            3D truck packing, developed for the 2026 Dexterity Foresight API Challenge.
+          </p>
+          
+          <p>
+            The environment models randomized boxes and contact physics, applies
+            truck-boundary and axis-aligned overlap checks, detects displacement-based
+            instability, and produces three projected occupancy grids. I owned the
+            simulator and customized PPO training workflow, including continuous
+            placement outputs, four axis-aligned orientation choices, and custom
+            neural-network encoders; the team’s REST API integration was handled
+            separately.
+          </p>
+          
+          <ul class="tag-list" aria-label="Technologies and methods">
+            <li>MuJoCo</li>
+            <li>Gymnasium</li>
+            <li>Tianshou</li>
+            <li>PPO</li>
+            <li>CNN</li>
           </ul>
+          
           <div class="project-links">
-            <a href="https://github.com/payamparvizi/truck_packing_rl" target="_blank" rel="noopener noreferrer">Code <span aria-hidden="true">↗</span></a>
+            <a
+              href="https://github.com/payamparvizi/truck_packing_rl"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Code <span aria-hidden="true">↗</span>
+            </a>
           </div>
-        </div>
       </article>
 
       <article class="project">
