@@ -1,39 +1,85 @@
 ---
-layout:     page
+layout: page
 title:
-permalink:  /
----
-
-<!-- SEO Meta Tags -->
-<meta name="title" content="Payam Parvizi | Reinforcement Learning & Control | Sim-to-Real Robotics" />
-<meta name="description" content="PhD-trained Postdoctoral Research Associate at the University of Ottawa working on reinforcement learning and control for reliable continuous-control systems, with a focus on policy regularization, stability, and sim-to-real deployment." />
-<meta name="keywords" content="Payam Parvizi, reinforcement learning, continuous control, control-oriented machine learning, policy regularization, stability, applied RL, sim-to-real, robotics, quadcopter, Gymnasium, MuJoCo, JAX, University of Ottawa, National Research Council Canada" />
-<meta name="author" content="Payam Parvizi" />
-<meta property="og:title" content="Payam Parvizi | Reinforcement Learning & Control | Sim-to-Real Robotics" />
-<meta property="og:description" content="Research, publications, and projects by Payam Parvizi on reinforcement learning and control for reliable continuous-control systems, including sim-to-real deployment on physical platforms." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://payamparvizi.github.io/" />
-<meta property="og:image" content="https://payamparvizi.github.io/img/Profile/headshot.jpg" />
+seo_title: "Payam Parvizi | Robotics & Reinforcement Learning Research Engineer"
+description: "Robotics and reinforcement learning research engineer specializing in continuous-control RL, physics-based simulation, policy regularization, and sim-to-real systems."
+permalink: /
+image: "/img/Profile/IMG_0759.jpg"
 ---
 
 <div id="intro">
     <div id="intro-text">
         <h1>Payam Parvizi</h1>
-        <p align="justify">
-            I am a PhD-trained Research Associate with 4+ years of experience developing and validating reinforcement learning methods for continuous control under real-world-motivated constraints. I am driven by a deep curiosity about how learning-based controllers can achieve the smooth, stable, and reliable behavior needed for safe deployment in physical systems.
-            <br><br>
-            I specialize in action/policy regularization and policy smoothing to reduce high-frequency oscillations and improve reliability, validated through the development of custom Gymnasium-compatible environments and simulation-to-real transfer. My work includes deployment on quadcopter platforms and applications in satellite-to-ground optical communications, conducted at the <a href="https://www.uottawa.ca/en" target="_blank">University of Ottawa</a> under the supervision of <a href="https://uniweb.uottawa.ca/view/profile/members/175?lang=en" target="_blank">Dr. Davide Spinello</a> and <a href="https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science/directory/colin-bellinger" target="_blank">Dr. Colin Bellinger</a>, and in collaboration with <a href="https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/ross-cheriton" target="_blank">Dr. Ross Cheriton</a> at the <a href="https://nrc.canada.ca/" target="_blank">National Research Council of Canada (NRC)</a>.
-            <br><br>
-            <br><br>
-            <a href="Resume.pdf" target="_blank">CV</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://scholar.google.com/citations?user=nZz4fKIAAAAJ&hl=en" target="_blank">Google Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://github.com/payamparvizi" target="_blank">GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://www.linkedin.com/in/PayamParvizi" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="mailto:payam.parvizi@gmail.com" target="_blank">Email</a>
+
+        <p class="intro-subtitle">
+            Robotics &amp; Reinforcement Learning Research Engineer | PhD
         </p>
+
+        <p class="intro-meta">
+            Ottawa, ON, Canada · Authorized to work in Canada ·
+            Open to relocation across Ontario
+        </p>
+
+        <p>
+            I develop reinforcement-learning controllers, physics-based
+            simulation environments, and sim-to-real workflows for physical
+            systems. My work focuses on continuous-control reinforcement
+            learning, policy regularization, robotics, adaptive optics, and
+            reliable hardware-aware control.
+        </p>
+
+        <p>
+            I developed State-Adaptive Proportional Policy Smoothing (SAPPS),
+            implemented PPO, SAC, and DDPG from scratch in PyTorch, and built
+            custom Gymnasium and MuJoCo environments. My research spans MuJoCo
+            benchmarks, wavefront-sensorless adaptive optics, real Crazyflie
+            altitude-control experiments, and robotic skill learning from
+            demonstration.
+        </p>
+
+        <p>
+            I am seeking full-time opportunities in robotics, reinforcement
+            learning, simulation, and applied machine learning for physical
+            systems.
+        </p>
+
+        <nav class="intro-links" aria-label="Professional links">
+            <a
+                href="/Payam_Parvizi_Robotics_RL_Resume.pdf"
+                target="_blank"
+                rel="noopener"
+            >Résumé</a>
+
+            <a
+                href="https://scholar.google.com/citations?user=nZz4fKIAAAAJ"
+                target="_blank"
+                rel="me noopener noreferrer"
+            >Google Scholar</a>
+
+            <a
+                href="https://github.com/payamparvizi"
+                target="_blank"
+                rel="me noopener noreferrer"
+            >GitHub</a>
+
+            <a
+                href="https://www.linkedin.com/in/payamparvizi/"
+                target="_blank"
+                rel="me noopener noreferrer"
+            >LinkedIn</a>
+
+            <a href="mailto:payam.parvizi@gmail.com">Email</a>
+        </nav>
     </div>
+
     <div id="intro-image">
-        <img src="/img/Profile/IMG_0759.jpg">
+        <img
+            src="/img/Profile/IMG_0759.jpg"
+            alt="Payam Parvizi"
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        >
     </div>
 </div>
 
