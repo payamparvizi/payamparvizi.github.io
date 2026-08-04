@@ -1,0 +1,142 @@
+ .gitignore                                         |   82 [31m-[m
+ 404.html                                           |   13 [32m+[m
+ CNAME                                              |    0
+ Gemfile                                            |    3 [32m+[m[31m-[m
+ Payam_Parvizi_Robotics_RL_Resume.pdf               | 1692 [32m++++++++++++++++++++[m
+ README.md                                          |   32 [32m+[m
+ Resume.pdf                                         |  Bin [31m38788[m -> [32m0[m bytes
+ _config.yml                                        |   25 [32m+[m[31m-[m
+ _layouts/default.html                              |  230 [32m++[m[31m-[m
+ _layouts/page.html                                 |   14 [31m-[m
+ _layouts/post.html                                 |   46 [31m-[m
+ _pages/machinae_animatae.md                        |   24 [31m-[m
+ _posts/2020-08-06-machinae-animatae.md             |   16 [31m-[m
+ .../2020-08-06-resources-for-effective-research.md |   40 [31m-[m
+ .../2023-10-25-simulators-and-moravec-paradox.md   |  106 [31m--[m
+ _posts/2024-01-22-fun-with-vector-derivatives.md   |   14 [31m-[m
+ assets/css/site.css                                |  229 [32m+++[m
+ assets/img/adaptive-optics.webp                    |  Bin [31m0[m -> [32m48378[m bytes
+ assets/img/crazyflie-poster.webp                   |  Bin [31m0[m -> [32m70666[m bytes
+ assets/img/payam-parvizi-headshot.webp             |  Bin [31m0[m -> [32m81816[m bytes
+ assets/img/robotic-deburring.webp                  |  Bin [31m0[m -> [32m31450[m bytes
+ assets/img/sapps.webp                              |  Bin [31m0[m -> [32m42080[m bytes
+ assets/js/site.js                                  |   28 [32m+[m
+ assets/video/crazyflie-sim-to-real.mp4             |  Bin [31m0[m -> [32m649862[m bytes
+ atom.xml                                           |   25 [31m-[m
+ css/andyzeng_style.css                             |  426 [31m-----[m
+ css/bootstrap.min.css                              |   11 [31m-[m
+ css/main_1548935627.css                            |  528 [31m------[m
+ font/FontAwesome.otf                               |  Bin [31m48748[m -> [32m0[m bytes
+ font/avenirnext-bold.woff                          |  Bin [31m39536[m -> [32m0[m bytes
+ font/avenirnext-regular.woff                       |  Bin [31m49504[m -> [32m0[m bytes
+ font/avenirnext-thin.woff                          |  Bin [31m29272[m -> [32m0[m bytes
+ font/fontawesome-webfont.eot                       |  Bin [31m27879[m -> [32m0[m bytes
+ font/fontawesome-webfont.ttf                       |  Bin [31m60296[m -> [32m0[m bytes
+ font/fontawesome-webfont.woff                      |  Bin [31m31840[m -> [32m0[m bytes
+ img/1dof_dmp.png                                   |  Bin [31m351916[m -> [32m0[m bytes
+ img/ARP/ARP_Blog3.png                              |  Bin [31m85670[m -> [32m0[m bytes
+ img/ARP/ARP_Blog4.gif                              |  Bin [31m8389658[m -> [32m0[m bytes
+ img/ARP/ARP_Blog5.gif                              |  Bin [31m8770791[m -> [32m0[m bytes
+ img/AVG.mp4                                        |  Bin [31m1703596[m -> [32m0[m bytes
+ img/AVG_poster.jpg                                 |  Bin [31m171109[m -> [32m0[m bytes
+ img/AVG_thumbnail.png                              |  Bin [31m48949[m -> [32m0[m bytes
+ img/BioRob_2018/contextual_lfd_trial.jpg           |  Bin [31m213419[m -> [32m0[m bytes
+ img/BioRob_2018/cp_trials.png                      |  Bin [31m397813[m -> [32m0[m bytes
+ img/BioRob_2018/item_set.png                       |  Bin [31m247415[m -> [32m0[m bytes
+ img/BioRob_2018/schematic_contextual_lfd.png       |  Bin [31m176173[m -> [32m0[m bytes
+ img/Create-Reacher.mp4                             |  Bin [31m28421612[m -> [32m0[m bytes
+ img/Create-Reacher_poster.jpg                      |  Bin [31m213955[m -> [32m0[m bytes
+ img/Gautham.jpg                                    |  Bin [31m297395[m -> [32m0[m bytes
+ img/Gautham_2019.jpg                               |  Bin [31m567771[m -> [32m0[m bytes
+ img/Gautham_brown_jacket_2023.jpg                  |  Bin [31m192423[m -> [32m0[m bytes
+ img/ICORR_2017/ICORR_Chart.jpg                     |  Bin [31m25263[m -> [32m0[m bytes
+ img/ICORR_2017/ICORR_Setup_animation.png           |  Bin [31m153027[m -> [32m0[m bytes
+ img/ICORR_2017/Lfd_amputee.png                     |  Bin [31m2422441[m -> [32m0[m bytes
+ img/ICORR_2017/Trigno_Glove_setup.jpg              |  Bin [31m807002[m -> [32m0[m bytes
+ img/ICORR_2017/bentoarm.jpg                        |  Bin [31m998744[m -> [32m0[m bytes
+ img/ICORR_2017/lfd_amputee_closeup.png             |  Bin [31m2026400[m -> [32m0[m bytes
+ img/ICORR_2017/trial_2.png                         |  Bin [31m519427[m -> [32m0[m bytes
+ img/LfD_trials.mp4                                 |  Bin [31m24061510[m -> [32m0[m bytes
+ img/LfD_trials_poster.jpg                          |  Bin [31m353462[m -> [32m0[m bytes
+ img/NeuroHex/board_rep.png                         |  Bin [31m68235[m -> [32m0[m bytes
+ img/NeuroHex/hexboard.png                          |  Bin [31m425088[m -> [32m0[m bytes
+ img/NeuroHex/model_architecture.png                |  Bin [31m109518[m -> [32m0[m bytes
+ img/PhD_thesis.png                                 |  Bin [31m1854279[m -> [32m0[m bytes
+ img/Profile/IMG_0758.jpg                           |  Bin [31m1145327[m -> [32m0[m bytes
+ img/Profile/IMG_0759.jpg                           |  Bin [31m1145327[m -> [32m0[m bytes
+ img/Profile/IMG_3211.png                           |  Bin [31m2447636[m -> [32m0[m bytes
+ img/Quadcopter_Sim_to_real.mp4                     |  Bin [31m4664862[m -> [32m0[m bytes
+ img/Quadcopter_Sim_to_real.png                     |  Bin [31m1270647[m -> [32m0[m bytes
+ img/RL_Chemist_Setup.jpg                           |  Bin [31m201384[m -> [32m0[m bytes
+ img/ReLoD/ROA_env_agent_interaction.png            |  Bin [31m253860[m -> [32m0[m bytes
+ img/ReLoD/UR5-VisualReacher.png                    |  Bin [31m2388646[m -> [32m0[m bytes
+ img/ReLoD/iros_ur5_reacher.png                     |  Bin [31m144580[m -> [32m0[m bytes
+ img/ReLoD/roomba_reacher.jpg                       |  Bin [31m2047904[m -> [32m0[m bytes
+ img/SenseAct/create-docker-trpo.gif                |  Bin [31m18934697[m -> [32m0[m bytes
+ img/SenseAct/create-mover-ppo.gif                  |  Bin [31m18257214[m -> [32m0[m bytes
+ img/SenseAct/dxl-reacher-trpo.gif                  |  Bin [31m6235562[m -> [32m0[m bytes
+ img/SenseAct/dxl-tracker-trpo.gif                  |  Bin [31m12165599[m -> [32m0[m bytes
+ img/SenseAct/robots-1.png                          |  Bin [31m346426[m -> [32m0[m bytes
+ img/SenseAct/ur-reacher-2-trpo.gif                 |  Bin [31m17407398[m -> [32m0[m bytes
+ img/SenseAct/ur-reacher-6-trpo.gif                 |  Bin [31m18196316[m -> [32m0[m bytes
+ img/Sort.mp4                                       |  Bin [31m25689574[m -> [32m0[m bytes
+ img/Sort_poster.jpg                                |  Bin [31m261338[m -> [32m0[m bytes
+ img/TI/robot_1.png                                 |  Bin [31m1036127[m -> [32m0[m bytes
+ img/TI/robot_2.png                                 |  Bin [31m1510928[m -> [32m0[m bytes
+ img/TI/ti_award.jpg                                |  Bin [31m360045[m -> [32m0[m bytes
+ img/TI/ti_team.png                                 |  Bin [31m1861844[m -> [32m0[m bytes
+ img/UR5-VisualReacher.mp4                          |  Bin [31m7411324[m -> [32m0[m bytes
+ img/UR5-VisualReacher_poster.jpg                   |  Bin [31m141144[m -> [32m0[m bytes
+ img/WFAO.png                                       |  Bin [31m827938[m -> [32m0[m bytes
+ img/WallE_starry_night.jpg                         |  Bin [31m568012[m -> [32m0[m bytes
+ img/ardrone.jpg                                    |  Bin [31m8916[m -> [32m0[m bytes
+ img/ardrone_team.png                               |  Bin [31m650625[m -> [32m0[m bytes
+ img/area-coverage.png                              |  Bin [31m180023[m -> [32m0[m bytes
+ img/avatar.jpg                                     |  Bin [31m17404[m -> [32m0[m bytes
+ img/avatar_2.png                                   |  Bin [31m171159[m -> [32m0[m bytes
+ img/avg-replay-buffer.png                          |  Bin [31m65080[m -> [32m0[m bytes
+ img/calvin_hobbes_starry_night.jpg                 |  Bin [31m196720[m -> [32m0[m bytes
+ img/coat_t.png                                     |  Bin [31m318477[m -> [32m0[m bytes
+ img/cover2.jpg                                     |  Bin [31m100540[m -> [32m0[m bytes
+ img/discount_correction.jpg                        |  Bin [31m95180[m -> [32m0[m bytes
+ img/dmp_test_setup.png                             |  Bin [31m576218[m -> [32m0[m bytes
+ img/franka_reacher.jpg                             |  Bin [31m148197[m -> [32m0[m bytes
+ img/logos/Kindred/Kindred_Logomark_RGB_Black.png   |  Bin [31m17092[m -> [32m0[m bytes
+ img/logos/Kindred/Kindred_Logomark_RGB_Fire.png    |  Bin [31m21616[m -> [32m0[m bytes
+ img/logos/Kindred/Kindred_Logomark_RGB_Stone.png   |  Bin [31m21639[m -> [32m0[m bytes
+ img/logos/Kindred/Kindred_Logomark_RGB_White.png   |  Bin [31m19249[m -> [32m0[m bytes
+ img/logos/NITT_logo.png                            |  Bin [31m80857[m -> [32m0[m bytes
+ img/logos/UofA_logo.png                            |  Bin [31m27486[m -> [32m0[m bytes
+ img/logos/deepmind.png                             |  Bin [31m9083[m -> [32m0[m bytes
+ img/logos/fair.png                                 |  Bin [31m4743[m -> [32m0[m bytes
+ img/logos/fair2.png                                |  Bin [31m35818[m -> [32m0[m bytes
+ img/logos/fair3.png                                |  Bin [31m17516[m -> [32m0[m bytes
+ img/logos/iiit-h_logo.png                          |  Bin [31m19302[m -> [32m0[m bytes
+ img/logos/mittechreview.svg                        |    1 [31m-[m
+ img/logos/nautilus.png                             |  Bin [31m7878[m -> [32m0[m bytes
+ img/logos/sanctuary_logo.png                       |  Bin [31m85579[m -> [32m0[m bytes
+ img/logos/techradar.png                            |  Bin [31m4148[m -> [32m0[m bytes
+ img/logos/tesla.jpg                                |  Bin [31m29098[m -> [32m0[m bytes
+ img/logos/theverge.png                             |  Bin [31m11326[m -> [32m0[m bytes
+ img/logos/ufreiburg.png                            |  Bin [31m487757[m -> [32m0[m bytes
+ img/logos/ufreiburg_full.png                       |  Bin [31m622016[m -> [32m0[m bytes
+ img/madi.png                                       |  Bin [31m332320[m -> [32m0[m bytes
+ img/madi_setup.jpg                                 |  Bin [31m147544[m -> [32m0[m bytes
+ img/moravec_paradox.png                            |  Bin [31m1404171[m -> [32m0[m bytes
+ img/relod.jpg                                      |  Bin [31m212942[m -> [32m0[m bytes
+ img/relod.png                                      |  Bin [31m1142195[m -> [32m0[m bytes
+ img/rlscan.png                                     |  Bin [31m204608[m -> [32m0[m bytes
+ img/robotic-deburring.png                          |  Bin [31m506980[m -> [32m0[m bytes
+ img/sapps.png                                      |  Bin [31m137892[m -> [32m0[m bytes
+ img/streaming-deep-rl.png                          |  Bin [31m104107[m -> [32m0[m bytes
+ img/test.jpg                                       |  Bin [31m251066[m -> [32m0[m bytes
+ img/vector_charger_detector.jpg                    |  Bin [31m84387[m -> [32m0[m bytes
+ img/waving_bear.gif                                |  Bin [31m511115[m -> [32m0[m bytes
+ img/wslao_mdpi.png                                 |  Bin [31m121898[m -> [32m0[m bytes
+ index.html                                         |  353 [32m++++[m
+ index.md                                           |  460 [31m------[m
+ js/jquery.min.js                                   |    5 [31m-[m
+ pdf/vector_derivatives.pdf                         |  Bin [31m357066[m -> [32m0[m bytes
+ robots.txt                                         |    7 [32m+[m
+ sitemap.xml                                        |   11 [32m+[m
+ 141 files changed, 2479 insertions(+), 1942 deletions(-)

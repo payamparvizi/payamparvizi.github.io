@@ -1,0 +1,353 @@
+---
+layout: default
+title: "Payam Parvizi"
+seo_title: "Payam Parvizi | Robotics & Reinforcement Learning Research Engineer"
+description: "Robotics and reinforcement learning research engineer specializing in continuous-control RL, physics-based simulation, policy regularization, adaptive optics, and sim-to-real systems."
+permalink: /
+image: "/assets/img/payam-parvizi-headshot.webp"
+---
+
+<section class="hero section" id="top" aria-labelledby="hero-title">
+  <div class="container hero-grid">
+    <div class="hero-copy">
+      <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span>Seeking full-time research and engineering roles</p>
+      <h1 id="hero-title">Robotics &amp; Reinforcement Learning<br>Research Engineer <span class="muted">| PhD</span></h1>
+      <p class="hero-lead">
+        I develop reinforcement-learning controllers, physics-based simulation environments, and sim-to-real workflows for physical systems.
+      </p>
+      <p class="hero-body">
+        My work focuses on continuous-control reinforcement learning, policy regularization, robotics, adaptive optics, and reliable hardware-aware control. I developed <strong>State-Adaptive Proportional Policy Smoothing (SAPPS)</strong>, implemented PPO, SAC, and DDPG from scratch in PyTorch, and built custom Gymnasium and MuJoCo environments.
+      </p>
+
+      <div class="hero-actions" aria-label="Primary actions">
+        <a class="button button-primary" href="{{ '/Payam_Parvizi_Robotics_RL_Resume.pdf' | relative_url }}" target="_blank" rel="noopener">View résumé <span aria-hidden="true">↗</span></a>
+        <a class="button button-secondary" href="#work">Explore selected work <span aria-hidden="true">↓</span></a>
+      </div>
+
+      <ul class="hero-meta" aria-label="Location and availability">
+        <li>Ottawa, Ontario, Canada</li>
+        <li>Authorized to work in Canada</li>
+        <li>Open to relocation across Ontario</li>
+      </ul>
+
+      <nav class="profile-links" aria-label="Professional profiles">
+        <a href="https://github.com/payamparvizi" target="_blank" rel="me noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+        <a href="https://www.linkedin.com/in/payamparvizi/" target="_blank" rel="me noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
+        <a href="https://scholar.google.com/citations?user=nZz4fKIAAAAJ" target="_blank" rel="me noopener noreferrer">Google Scholar <span aria-hidden="true">↗</span></a>
+        <a href="mailto:payam.parvizi@gmail.com">Email</a>
+      </nav>
+    </div>
+
+    <div class="hero-portrait-wrap">
+      <div class="portrait-accent" aria-hidden="true"></div>
+      <img class="hero-portrait" src="{{ '/assets/img/payam-parvizi-headshot.webp' | relative_url }}" width="760" height="850" alt="Payam Parvizi" decoding="async" fetchpriority="high">
+      <div class="portrait-caption">
+        <strong>Research focus</strong>
+        <span>Continuous-control RL · Simulation · Sim-to-real</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-muted" aria-labelledby="focus-title">
+  <div class="container">
+    <div class="section-heading compact">
+      <p class="section-kicker">Technical focus</p>
+      <h2 id="focus-title">Learning-based control for physical systems</h2>
+    </div>
+    <div class="focus-grid">
+      <article class="focus-card">
+        <h3>Reinforcement Learning</h3>
+        <p>PPO, SAC, DDPG, actor-critic methods, continuous control, policy regularization, reward design, and multi-seed evaluation.</p>
+      </article>
+      <article class="focus-card">
+        <h3>Simulation &amp; Robotics</h3>
+        <p>Gymnasium, MuJoCo, custom physics-based environments, Crazyflie hardware, sim-to-real workflows, and robotic skill learning.</p>
+      </article>
+      <article class="focus-card">
+        <h3>ML &amp; Research Computing</h3>
+        <p>Python, PyTorch, Tianshou, NumPy, Linux, HPC/SLURM, Weights &amp; Biases, experiment design, analysis, and visualization.</p>
+      </article>
+      <article class="focus-card">
+        <h3>Control &amp; Dynamics</h3>
+        <p>Feedback control, stability, state-space modelling, system dynamics, adaptive optics, and control-oriented machine learning.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="work" aria-labelledby="work-title">
+  <div class="container">
+    <div class="section-heading">
+      <div>
+        <p class="section-kicker">Selected work</p>
+        <h2 id="work-title">Methods, research software, and physical systems</h2>
+      </div>
+      <p class="section-intro">A focused selection of projects demonstrating original method development, scientific software engineering, simulation, and real-hardware evaluation.</p>
+    </div>
+
+    <div class="projects">
+      <article class="project project-featured">
+        <div class="project-media media-contain">
+          <img src="{{ '/assets/img/sapps.webp' | relative_url }}" width="1000" height="812" alt="Diagram explaining State-Adaptive Proportional Policy Smoothing" loading="lazy" decoding="async">
+        </div>
+        <div class="project-content">
+          <p class="project-number">01 · Method development</p>
+          <h3>State-Adaptive Proportional Policy Smoothing (SAPPS)</h3>
+          <p>A trajectory-local policy-regularization method that discourages unnecessary action changes while preserving responsiveness when system states change rapidly.</p>
+          <p>Evaluated across MuJoCo continuous-control tasks, simulated adaptive optics, and Crazyflie control through multi-environment, multi-seed experiments.</p>
+          <ul class="tag-list" aria-label="Technologies">
+            <li>PyTorch</li><li>PPO</li><li>MuJoCo</li><li>HPC/SLURM</li>
+          </ul>
+          <div class="project-links">
+            <a href="https://github.com/payamparvizi/sapps-rl" target="_blank" rel="noopener noreferrer">Code <span aria-hidden="true">↗</span></a>
+            <a href="https://doi.org/10.36227/techrxiv.177004949.91897305" target="_blank" rel="noopener noreferrer">Preprint <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </article>
+
+      <article class="project">
+        <div class="project-media media-cover">
+          <img src="{{ '/assets/img/adaptive-optics.webp' | relative_url }}" width="780" height="994" alt="Wavefront-sensorless adaptive optics system for optical satellite communications" loading="lazy" decoding="async">
+        </div>
+        <div class="project-content">
+          <p class="project-number">02 · Research software</p>
+          <h3>Adaptive Optics Gym</h3>
+          <p>A configurable Gymnasium-compatible environment for reinforcement-learning control of wavefront-sensorless adaptive optics in optical satellite communication downlinks.</p>
+          <p>Models atmospheric turbulence, optical propagation, deformable-mirror control, focal-plane sensing, and single-mode-fiber coupling, with PPO, SAC, and DDPG workflows.</p>
+          <ul class="tag-list" aria-label="Technologies">
+            <li>Gymnasium</li><li>PyTorch</li><li>PPO</li><li>SAC</li><li>DDPG</li>
+          </ul>
+          <div class="project-links">
+            <a href="https://github.com/payamparvizi/adaptive_optics_gym" target="_blank" rel="noopener noreferrer">Code <span aria-hidden="true">↗</span></a>
+            <a href="https://doi.org/10.3390/photonics10121371" target="_blank" rel="noopener noreferrer">Paper <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </article>
+
+      <article class="project">
+        <div class="project-media media-video">
+          <video controls muted loop playsinline preload="metadata" poster="{{ '/assets/img/crazyflie-poster.webp' | relative_url }}" aria-label="Crazyflie sim-to-real altitude-control experiment">
+            <source src="{{ '/assets/video/crazyflie-sim-to-real.mp4' | relative_url }}" type="video/mp4">
+            Your browser does not support embedded video.
+          </video>
+        </div>
+        <div class="project-content">
+          <p class="project-number">03 · Sim-to-real robotics</p>
+          <h3>Crazyflie Reinforcement Learning</h3>
+          <p>An end-to-end simulation-to-hardware PPO workflow for Crazyflie 2.1 altitude control.</p>
+          <p>Combined multi-seed simulation training with 100 real-hardware episodes, real-time telemetry, safety constraints, and automatic landing.</p>
+          <ul class="tag-list" aria-label="Technologies">
+            <li>PPO</li><li>Crazyflie</li><li>cflib</li><li>W&amp;B</li><li>Hardware</li>
+          </ul>
+          <div class="project-links">
+            <a href="https://github.com/payamparvizi/Crazyflie_RL" target="_blank" rel="noopener noreferrer">Code <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </article>
+
+      <article class="project">
+        <div class="project-media packing-media" aria-label="Stylized truck-packing occupancy-grid visualization" role="img">
+          <div class="truck-shell" aria-hidden="true">
+            <span class="box box-a"></span><span class="box box-b"></span><span class="box box-c"></span><span class="box box-d"></span><span class="box box-e"></span><span class="box box-f"></span>
+          </div>
+          <div class="grid-stack" aria-hidden="true"><span></span><span></span><span></span></div>
+        </div>
+        <div class="project-content">
+          <p class="project-number">04 · Physics simulation</p>
+          <h3>MuJoCo Truck-Packing Simulator &amp; PPO Agent</h3>
+          <p>A completed Gymnasium-compatible MuJoCo research prototype for sequential 3D truck packing.</p>
+          <p>Includes contact physics, boundary and overlap checks, displacement-based stability detection, three occupancy-grid projections, continuous placement actions, and PPO training with custom encoders.</p>
+          <ul class="tag-list" aria-label="Technologies">
+            <li>MuJoCo</li><li>Gymnasium</li><li>Tianshou</li><li>PPO</li><li>CNN</li>
+          </ul>
+          <div class="project-links">
+            <a href="https://github.com/payamparvizi/truck_packing_rl" target="_blank" rel="noopener noreferrer">Code <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </article>
+
+      <article class="project">
+        <div class="project-media media-cover">
+          <img src="{{ '/assets/img/robotic-deburring.webp' | relative_url }}" width="760" height="755" alt="Robotic deburring experiment using a haptic device" loading="lazy" decoding="async">
+        </div>
+        <div class="project-content">
+          <p class="project-number">05 · Learning from demonstration</p>
+          <h3>Robotic Deburring Skill Learning</h3>
+          <p>Dynamic Movement Primitive representations of human deburring skills learned from 6-DOF and 1-DOF haptic-device demonstrations.</p>
+          <p>Included particle swarm optimization for DMP identification, adaptable trajectories, force-trajectory methods, and evaluation on a hexapod platform.</p>
+          <ul class="tag-list" aria-label="Technologies">
+            <li>DMPs</li><li>Haptics</li><li>PSO</li><li>MATLAB</li><li>Robotics</li>
+          </ul>
+          <div class="project-links">
+            <a href="https://doi.org/10.1109/MMAR.2017.8046856" target="_blank" rel="noopener noreferrer">Paper <span aria-hidden="true">↗</span></a>
+            <a href="https://open.metu.edu.tr/handle/11511/27117" target="_blank" rel="noopener noreferrer">Thesis <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section section-muted" id="publications" aria-labelledby="publications-title">
+  <div class="container">
+    <div class="section-heading">
+      <div>
+        <p class="section-kicker">Research output</p>
+        <h2 id="publications-title">Selected publications</h2>
+      </div>
+      <a class="text-link" href="https://scholar.google.com/citations?user=nZz4fKIAAAAJ" target="_blank" rel="noopener noreferrer">Full record on Google Scholar <span aria-hidden="true">↗</span></a>
+    </div>
+
+    <ol class="publication-list">
+      <li>
+        <div class="publication-year">2026</div>
+        <div>
+          <h3><a href="https://doi.org/10.1364/JOSAB.578050" target="_blank" rel="noopener noreferrer">Action-Regularized Reinforcement Learning for Adaptive Optics in Optical Satellite Communication</a></h3>
+          <p><strong>Payam Parvizi</strong>, Colin Bellinger, Ross Cheriton, Abhishek Naik, Davide Spinello</p>
+          <p class="publication-venue">Journal of the Optical Society of America B · Early posting</p>
+        </div>
+      </li>
+      <li>
+        <div class="publication-year">2026</div>
+        <div>
+          <h3><a href="https://doi.org/10.36227/techrxiv.177004949.91897305" target="_blank" rel="noopener noreferrer">Adaptive Policy Regularization for Smooth Control in Reinforcement Learning</a></h3>
+          <p><strong>Payam Parvizi</strong>, Abhishek Naik, Colin Bellinger, Ross Cheriton, Davide Spinello</p>
+          <p class="publication-venue">TechRxiv preprint · Manuscript under revision</p>
+        </div>
+      </li>
+      <li>
+        <div class="publication-year">2023</div>
+        <div>
+          <h3><a href="https://doi.org/10.3390/photonics10121371" target="_blank" rel="noopener noreferrer">Reinforcement Learning Environment for Wavefront Sensorless Adaptive Optics in Single-Mode Fiber Coupled Optical Satellite Communications Downlinks</a></h3>
+          <p><strong>Payam Parvizi</strong>, Runnan Zou, Colin Bellinger, Ross Cheriton, Davide Spinello</p>
+          <p class="publication-venue">Photonics · 10(12), 1371</p>
+        </div>
+      </li>
+      <li>
+        <div class="publication-year">2017</div>
+        <div>
+          <h3><a href="https://doi.org/10.1109/MMAR.2017.8046856" target="_blank" rel="noopener noreferrer">Parametrization of Robotic Deburring Process with Motor Skills from Motion Primitives of Human Skill Model</a></h3>
+          <p><strong>Payam Parvizi</strong>, Musab Çağrı Uğurlu, Kemal Açıkgöz, Erhan İlhan Konukseven</p>
+          <p class="publication-venue">22nd International Conference on Methods and Models in Automation and Robotics</p>
+        </div>
+      </li>
+      <li>
+        <div class="publication-year">2017</div>
+        <div>
+          <h3><a href="https://doi.org/10.1109/ELECO.2017.8266228" target="_blank" rel="noopener noreferrer">Dynamic Movement Primitives and Force Feedback: Teleoperation in Precision Grinding Process</a></h3>
+          <p>Kemal Açıkgöz, <strong>Payam Parvizi</strong>, Abdulhamit Dönder, Musab Çağrı Uğurlu, Erhan İlhan Konukseven</p>
+          <p class="publication-venue">10th International Conference on Electrical and Electronics Engineering</p>
+        </div>
+      </li>
+    </ol>
+
+    <div class="thesis-row">
+      <article>
+        <p class="section-kicker">PhD thesis · 2025</p>
+        <h3><a href="https://ruor.uottawa.ca/items/9fc2648b-795e-4664-9f85-994c346dc621" target="_blank" rel="noopener noreferrer">Adaptive Policy Smoothing in Reinforcement Learning: Applications to Wavefront Sensorless Adaptive Optics and Robotics</a></h3>
+      </article>
+      <article>
+        <p class="section-kicker">MSc thesis · 2018</p>
+        <h3><a href="https://open.metu.edu.tr/handle/11511/27117" target="_blank" rel="noopener noreferrer">Demonstration of Robotic Deburring Process Motor Skills from Motion Primitives of Human Skill Model</a></h3>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="experience" aria-labelledby="experience-title">
+  <div class="container">
+    <div class="section-heading">
+      <div>
+        <p class="section-kicker">Background</p>
+        <h2 id="experience-title">Experience &amp; education</h2>
+      </div>
+      <p class="section-intro">Research spanning mathematical method design, software implementation, large-scale experiments, physical systems, analysis, and publication.</p>
+    </div>
+
+    <div class="background-grid">
+      <div>
+        <h3 class="subsection-title">Experience</h3>
+        <ol class="timeline">
+          <li>
+            <div class="timeline-date">Nov 2025 – Mar 2026</div>
+            <div class="timeline-content">
+              <h4>Research Associate <span>(Postdoctoral Fellow)</span></h4>
+              <p class="timeline-org">University of Ottawa · Ottawa, Canada</p>
+              <p>Advanced SAPPS and led cross-domain implementation, multi-seed evaluation, analysis, visualization, and manuscript development using Linux, HPC/SLURM, and Weights &amp; Biases.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-date">Sep 2022 – Aug 2025</div>
+            <div class="timeline-content">
+              <h4>Research Assistant</h4>
+              <p class="timeline-org">University of Ottawa · Collaboration with the National Research Council of Canada</p>
+              <p>Designed Adaptive Optics Gym, implemented PPO, SAC, and DDPG from scratch in PyTorch, and led software, experiments, analysis, figures, repository release, and primary manuscript preparation.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-date">Jan 2019 – Apr 2022</div>
+            <div class="timeline-content">
+              <h4>Teaching Assistant</h4>
+              <p class="timeline-org">University of Ottawa</p>
+              <p>Supported seven academic terms in Control Systems, System Dynamics, and Biomedical System Dynamics; nominated for the 2022 Excellence Award for Teaching Assistants.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-date">Nov 2015 – Nov 2017</div>
+            <div class="timeline-content">
+              <h4>Project Assistant</h4>
+              <p class="timeline-org">Middle East Technical University · TÜBİTAK Grant 114E274</p>
+              <p>Developed DMP-based robotic deburring skills, particle-swarm optimization, force-trajectory methods, haptic-device experiments, and hexapod evaluation.</p>
+            </div>
+          </li>
+        </ol>
+      </div>
+
+      <aside class="education-panel" aria-labelledby="education-title">
+        <h3 class="subsection-title" id="education-title">Education</h3>
+        <article>
+          <p class="education-year">2018 – 2025</p>
+          <h4>PhD, Mechanical Engineering</h4>
+          <p>University of Ottawa</p>
+          <p class="education-detail">Adaptive policy smoothing in reinforcement learning, adaptive optics, and robotics.</p>
+        </article>
+        <article>
+          <p class="education-year">2015 – 2018</p>
+          <h4>MSc, Mechanical Engineering</h4>
+          <p>Middle East Technical University</p>
+          <p class="education-detail">Robotic deburring skill learning from human demonstrations.</p>
+        </article>
+        <article>
+          <p class="education-year">2008 – 2014</p>
+          <h4>BSc, Aerospace Engineering</h4>
+          <p>Middle East Technical University</p>
+        </article>
+
+        <div class="speaking-block">
+          <h3 class="subsection-title">Selected presentations</h3>
+          <ul>
+            <li><span>2025</span> Photonics North poster · Action-regularized RL for adaptive optics</li>
+            <li><span>2025</span> University of Ottawa MCG seminar · Wavefront-sensorless adaptive optics</li>
+            <li><span>2023</span> NRC AI for Design seminar · RL-based adaptive optics</li>
+            <li><span>2023</span> Photonics North poster · Satellite-to-ground optical communication</li>
+          </ul>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<section class="section contact-section" id="contact" aria-labelledby="contact-title">
+  <div class="container contact-card">
+    <div>
+      <p class="section-kicker">Contact</p>
+      <h2 id="contact-title">Building reliable learning-based systems for the physical world</h2>
+      <p>I am seeking full-time opportunities in robotics, reinforcement learning, simulation, and applied machine learning for physical systems.</p>
+    </div>
+    <div class="contact-actions">
+      <a class="button button-light" href="mailto:payam.parvizi@gmail.com">Email me</a>
+      <a class="button button-outline-light" href="https://www.linkedin.com/in/payamparvizi/" target="_blank" rel="noopener noreferrer">Connect on LinkedIn <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+</section>
