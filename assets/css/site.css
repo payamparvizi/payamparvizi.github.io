@@ -167,7 +167,7 @@ h2 { margin: 0; font-size: clamp(2rem, 3.5vw, 3.35rem); line-height: 1.1; letter
 .education-panel h4 { margin: .1rem 0; font-size: 1.03rem; }
 .education-panel p { margin: .15rem 0 0; color: var(--ink-soft); font-size: .9rem; }
 .education-panel .education-year { color: var(--accent); font-weight: 780; }
-.education-panel .education-detail { color: var(--muted); }
+.education-panel .education-detail { color: var(--ink-soft); }
 .speaking-block { margin-top: 2rem; }
 .speaking-block ul { display: grid; gap: .75rem; margin: 0; padding: 0; list-style: none; }
 .speaking-block li { color: var(--ink-soft); font-size: .88rem; }
