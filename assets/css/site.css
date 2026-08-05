@@ -150,7 +150,7 @@ h2 { margin: 0; font-size: clamp(2rem, 3.5vw, 3.35rem); line-height: 1.1; letter
 .thesis-row h3 a:hover { color: var(--accent); }
 
 .background-grid { display: grid; grid-template-columns: minmax(0, 1.45fr) minmax(300px, .55fr); gap: clamp(2.5rem, 7vw, 6rem); }
-.subsection-title { margin: 0 0 1.5rem; font-size: .88rem; color: var(--muted); text-transform: uppercase; letter-spacing: .1em; }
+.subsection-title { margin: 0 0 1.5rem; font-size: .88rem; color: var(--ink-soft); text-transform: uppercase; letter-spacing: .1em; }
 .timeline { margin: 0; padding: 0; list-style: none; }
 .timeline li { display: grid; grid-template-columns: 170px 1fr; gap: 1.5rem; padding: 0 0 2.3rem; }
 .timeline li:last-child { padding-bottom: 0; }
