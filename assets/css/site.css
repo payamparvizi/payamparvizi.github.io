@@ -134,6 +134,13 @@ h2 { margin: 0; font-size: clamp(2rem, 3.5vw, 3.35rem); line-height: 1.1; letter
 .publication-list .publication-venue { color: var(--ink-soft); font-weight: 650; }
 .thesis-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 2rem; }
 .thesis-row article { padding: 1.5rem; background: #fff; border: 1px solid var(--line); border-radius: var(--radius-md); }
+.thesis-institution {
+  margin: 0.75rem 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
 .thesis-row h3 { margin: 0; font-size: 1.08rem; line-height: 1.5; }
 .thesis-row h3 a { color: var(--ink); text-decoration: none; }
 .thesis-row h3 a:hover { color: var(--accent); }
