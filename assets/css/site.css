@@ -84,7 +84,6 @@ h1 { max-width: 920px; margin: 0; font-size: clamp(2.65rem, 4.3vw, 4.25rem); lin
   position: relative;
   z-index: 1;
   width: 100%;
-  height: auto;
   aspect-ratio: 760/850;
   object-fit: cover;
   border-radius: var(--radius-lg);
